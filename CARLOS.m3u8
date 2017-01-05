@@ -1,0 +1,1456 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="Mega HD" tvg-logo="http://secure.clientportal.link/picons/los40.png" tvg-name="Mega HD"  group-title="Spain",Mega HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/spain.png" tvg-name="########   Spain   ########"  group-title="Spain",########   Spain   ########
+http://clientportal.link:8080/live/Jesus001/Jasus001/13304.ts
+#EXTINF:0, tvg-id="0 Number ES" tvg-logo="http://secure.clientportal.link/picons/0number.png" tvg-name="#0 ES"  group-title="Spain",#0 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9411.ts
+#EXTINF:0, tvg-id="40 TV ES" tvg-logo="http://secure.clientportal.link/picons/los40.png" tvg-name="40 TV ES"  group-title="Spain",40 TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5475.ts
+#EXTINF:0, tvg-id="AandE ES" tvg-logo="http://secure.clientportal.link/picons/ae.png" tvg-name="A&E ES"  group-title="Spain",A&E ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5474.ts
+#EXTINF:0, tvg-id="AMC ES" tvg-logo="http://secure.clientportal.link/picons/amc.png" tvg-name="AMC ES"  group-title="Spain",AMC ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9438.ts
+#EXTINF:0, tvg-id="AXN ES" tvg-logo="http://secure.clientportal.link/picons/axn.png" tvg-name="AXN ES"  group-title="Spain",AXN ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5471.ts
+#EXTINF:0, tvg-id="AXN White ES" tvg-logo="http://secure.clientportal.link/picons/axnwhite.png" tvg-name="AXN White ES"  group-title="Spain",AXN White ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5470.ts
+#EXTINF:0, tvg-id="Antena 3 ES" tvg-logo="http://secure.clientportal.link/picons/antena3.png" tvg-name="Antena 3 ES"  group-title="Spain",Antena 3 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5472.ts
+#EXTINF:0, tvg-id="Aragon TV ES" tvg-logo="http://secure.clientportal.link/picons/aragon.png" tvg-name="Aragon TV ES"  group-title="Spain",Aragon TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9409.ts
+#EXTINF:0, tvg-id="Baby TV ES" tvg-logo="http://secure.clientportal.link/picons/babytv.png" tvg-name="Baby TV ES"  group-title="Spain",Baby TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9427.ts
+#EXTINF:0, tvg-id="Barca TV ES" tvg-logo="http://secure.clientportal.link/picons/barcatv.png" tvg-name="Barca TV ES"  group-title="Spain",Barca TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5466.ts
+#EXTINF:0, tvg-id="Boing ES" tvg-logo="http://secure.clientportal.link/picons/boing.png" tvg-name="Boing ES"  group-title="Spain",Boing ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9429.ts
+#EXTINF:0, tvg-id="CLASSICA ES" tvg-logo="http://secure.clientportal.link/picons/classica.png" tvg-name="CLASSICA ES"  group-title="Spain",CLASSICA ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9437.ts
+#EXTINF:0, tvg-id="Calle 13 ES" tvg-logo="http://secure.clientportal.link/picons/calle13.png" tvg-name="Calle 13 ES"  group-title="Spain",Calle 13 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5469.ts
+#EXTINF:0, tvg-id="Canal 24 horas ES" tvg-logo="http://secure.clientportal.link/picons/canal24horas.png" tvg-name="Canal 24 Horas ES"  group-title="Spain",Canal 24 Horas ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9410.ts
+#EXTINF:0, tvg-id="Canal Cocina ES" tvg-logo="http://secure.clientportal.link/picons/canalcocina.png" tvg-name="Canal Cocina ES"  group-title="Spain",Canal Cocina ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5456.ts
+#EXTINF:0, tvg-id="Canal Decasa ES" tvg-logo="http://secure.clientportal.link/picons/canaldecasa.png" tvg-name="Canal Decasa ES"  group-title="Spain",Canal Decasa ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5460.ts
+#EXTINF:0, tvg-id="Canal Panda ES" tvg-logo="http://secure.clientportal.link/picons/canalpanda.png" tvg-name="Canal Panda ES"  group-title="Spain",Canal Panda ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9418.ts
+#EXTINF:0, tvg-id="Canal Sur Andalucia ES" tvg-logo="http://secure.clientportal.link/picons/canalsurandalucia.png" tvg-name="Canal Sur Andalucia ES"  group-title="Spain",Canal Sur Andalucia ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5467.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/canalplusliga2.png" tvg-name="Canal+ Liga 2 ES"  group-title="Spain",Canal+ Liga 2 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9447.ts
+#EXTINF:0, tvg-id="Caza y Pesca ES" tvg-logo="http://secure.clientportal.link/picons/cazaypesca.png" tvg-name="Caza y Pesca ES"  group-title="Spain",Caza y Pesca ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9426.ts
+#EXTINF:0, tvg-id="Clan TVE ES" tvg-logo="http://secure.clientportal.link/picons/clantve.png" tvg-name="Clan TVE ES"  group-title="Spain",Clan TVE ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9428.ts
+#EXTINF:0, tvg-id="Comedy Central ES" tvg-logo="http://secure.clientportal.link/picons/comedycentral.png" tvg-name="Comedy Central ES"  group-title="Spain",Comedy Central ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9420.ts
+#EXTINF:0, tvg-id="COSMO ES" tvg-logo="http://secure.clientportal.link/picons/cosmo.png" tvg-name="Cosmo ES"  group-title="Spain",Cosmo ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5473.ts
+#EXTINF:0, tvg-id="Crimen Investigacion ES" tvg-logo="http://secure.clientportal.link/picons/crimeninvestigacion.png" tvg-name="Crimen & Investigacion ES"  group-title="Spain",Crimen & Investigacion ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9433.ts
+#EXTINF:0, tvg-id="Cuatro ES" tvg-logo="http://secure.clientportal.link/picons/cuatro.png" tvg-name="Cuatro ES"  group-title="Spain",Cuatro ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5464.ts
+#EXTINF:0, tvg-id="Discovery Channel ES" tvg-logo="http://secure.clientportal.link/picons/discoverychannel.png" tvg-name="Discovery Channel ES"  group-title="Spain",Discovery Channel ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5448.ts
+#EXTINF:0, tvg-id="Disney Channel ES" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" tvg-name="Disney Channel ES"  group-title="Spain",Disney Channel ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5446.ts
+#EXTINF:0, tvg-id="Disney Junior ES" tvg-logo="http://secure.clientportal.link/picons/disneyjunior.png" tvg-name="Disney Junior ES"  group-title="Spain",Disney Junior ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9431.ts
+#EXTINF:0, tvg-id="Disney XD ES" tvg-logo="http://secure.clientportal.link/picons/disneyxd.png" tvg-name="Disney XD ES"  group-title="Spain",Disney XD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9430.ts
+#EXTINF:0, tvg-id="Divinity ES" tvg-logo="http://secure.clientportal.link/picons/divinity.png" tvg-name="Divinity ES"  group-title="Spain",Divinity ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9442.ts
+#EXTINF:0, tvg-id="Energy ES" tvg-logo="http://secure.clientportal.link/picons/energy.png" tvg-name="Energy ES"  group-title="Spain",Energy ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9440.ts
+#EXTINF:0, tvg-id="Eurosport 1 ES" tvg-logo="http://secure.clientportal.link/picons/eurosport1uk.png" tvg-name="Eurosport 1 ES"  group-title="Spain",Eurosport 1 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5410.ts
+#EXTINF:0, tvg-id="FDF ES" tvg-logo="http://secure.clientportal.link/picons/fdf.png" tvg-name="FDF ES"  group-title="Spain",FDF ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9434.ts
+#EXTINF:0, tvg-id="FOX ES" tvg-logo="http://secure.clientportal.link/picons/fox.png" tvg-name="FOX ES"  group-title="Spain",FOX ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5442.ts
+#EXTINF:0, tvg-id="FOX Life ES" tvg-logo="http://secure.clientportal.link/picons/foxlife.png" tvg-name="FOX Life ES"  group-title="Spain",FOX Life ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5439.ts
+#EXTINF:0, tvg-id="FOX News ES" tvg-logo="http://secure.clientportal.link/picons/foxnews.png" tvg-name="FOX News ES"  group-title="Spain",FOX News ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9443.ts
+#EXTINF:0, tvg-id="GOL ES" tvg-logo="http://secure.clientportal.link/picons/goltv.png" tvg-name="Gol T ES"  group-title="Spain",Gol T ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9416.ts
+#EXTINF:0, tvg-id="Historia ES" tvg-logo="http://secure.clientportal.link/picons/canaldehistoria.png" tvg-name="Historia ES"  group-title="Spain",Historia ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9425.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/hittv.png" tvg-name="Hit TV ES"  group-title="Spain",Hit TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9435.ts
+#EXTINF:0, tvg-id="Hollywood ES" tvg-logo="http://secure.clientportal.link/picons/hollywood.png" tvg-name="Hollywood ES"  group-title="Spain",Hollywood ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5428.ts
+#EXTINF:0, tvg-id="Iberalia TV ES" tvg-logo="http://secure.clientportal.link/picons/iberaliatv.png" tvg-name="Iberalia TV ES"  group-title="Spain",Iberalia TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9408.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/ltc.png" tvg-name="LTC ES"  group-title="Spain",LTC ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9439.ts
+#EXTINF:0, tvg-id="LA 1 ES" tvg-logo="http://secure.clientportal.link/picons/la1.png" tvg-name="La 1 ES"  group-title="Spain",La 1 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9404.ts
+#EXTINF:0, tvg-id="LA 2 ES" tvg-logo="http://secure.clientportal.link/picons/la2.png" tvg-name="La 2 ES"  group-title="Spain",La 2 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9405.ts
+#EXTINF:0, tvg-id="La Sexta ES" tvg-logo="http://secure.clientportal.link/picons/lasexta.png" tvg-name="La Sexta ES"  group-title="Spain",La Sexta ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9406.ts
+#EXTINF:0, tvg-id="Canal Plus Liga ES" tvg-logo="http://secure.clientportal.link/picons/laligatv.png" tvg-name="LaLiga TV Bar ES"  group-title="Spain",LaLiga TV Bar ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5457.ts
+#EXTINF:0, tvg-id="MTV ES" tvg-logo="http://secure.clientportal.link/picons/mtv.png" tvg-name="MTV ES"  group-title="Spain",MTV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9448.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/movistaryomvi.png" tvg-name="MTV ROCKS ES"  group-title="Spain",MTV ROCKS ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9444.ts
+#EXTINF:0, tvg-id="Movistar Accion ES" tvg-logo="http://secure.clientportal.link/picons/movistaraccion.png" tvg-name="Movistar Acción ES"  group-title="Spain",Movistar Acción ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5463.ts
+#EXTINF:0, tvg-id="Movistar Cine N ES" tvg-logo="http://secure.clientportal.link/picons/movistarcinen.png" tvg-name="Movistar Cine Ñ ES"  group-title="Spain",Movistar Cine Ñ ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5411.ts
+#EXTINF:0, tvg-id="Movistar Comedia ES" tvg-logo="http://secure.clientportal.link/picons/movistarcomedia.png" tvg-name="Movistar Comedia ES"  group-title="Spain",Movistar Comedia ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5462.ts
+#EXTINF:0, tvg-id="Movistar DCine ES" tvg-logo="http://secure.clientportal.link/picons/movistardcine.png" tvg-name="Movistar DCine ES"  group-title="Spain",Movistar DCine ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5461.ts
+#EXTINF:0, tvg-id="Movistar Deportes 1 ES" tvg-logo="http://secure.clientportal.link/picons/movistardeportes1.png" tvg-name="Movistar Deportes 1 ES"  group-title="Spain",Movistar Deportes 1 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5465.ts
+#EXTINF:0, tvg-id="Movistar Deportes 2 ES" tvg-logo="http://secure.clientportal.link/picons/movistardeportes2.png" tvg-name="Movistar Deportes 2 ES"  group-title="Spain",Movistar Deportes 2 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9419.ts
+#EXTINF:0, tvg-id="Movistar Estrenos ES" tvg-logo="http://secure.clientportal.link/picons/movistarestrenos.png" tvg-name="Movistar Estrenos ES"  group-title="Spain",Movistar Estrenos ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9415.ts
+#EXTINF:0, tvg-id="Movistar Formula 1 ES" tvg-logo="http://secure.clientportal.link/picons/movistarformula1.png" tvg-name="Movistar Formula 1 ES"  group-title="Spain",Movistar Formula 1 ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5445.ts
+#EXTINF:0, tvg-id="Movistar Futbol ES" tvg-logo="http://secure.clientportal.link/picons/movistarfutbol.png" tvg-name="Movistar Fútbol ES"  group-title="Spain",Movistar Fútbol ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5459.ts
+#EXTINF:0, tvg-id="Movistar Golf ES" tvg-logo="http://secure.clientportal.link/picons/movistargolf.png" tvg-name="Movistar Golf ES"  group-title="Spain",Movistar Golf ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5458.ts
+#EXTINF:0, tvg-id="Movistar MotoGP ES" tvg-logo="http://secure.clientportal.link/picons/movistarmotogp.png" tvg-name="Movistar MotoGP ES"  group-title="Spain",Movistar MotoGP ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5436.ts
+#EXTINF:0, tvg-id="Movistar Partidazo ES" tvg-logo="http://secure.clientportal.link/picons/movistarpartidazo.png" tvg-name="Movistar Partidazo ES"  group-title="Spain",Movistar Partidazo ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5447.ts
+#EXTINF:0, tvg-id="Movistar Series ES" tvg-logo="http://secure.clientportal.link/picons/movistarseries.png" tvg-name="Movistar Series ES"  group-title="Spain",Movistar Series ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9413.ts
+#EXTINF:0, tvg-id="Movistar Series Xtra ES" tvg-logo="http://secure.clientportal.link/picons/movistarseriesxtra.png" tvg-name="Movistar Series Xtra ES"  group-title="Spain",Movistar Series Xtra ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9414.ts
+#EXTINF:0, tvg-id="Movistar Xtra ES" tvg-logo="http://secure.clientportal.link/picons/movistarxtra.png" tvg-name="Movistar Xtra ES"  group-title="Spain",Movistar Xtra ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9412.ts
+#EXTINF:0, tvg-id="Non Stop People ES" tvg-logo="http://secure.clientportal.link/picons/nonstoppeople.png" tvg-name="Nat Geo HD ES"  group-title="Spain",Nat Geo HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9441.ts
+#EXTINF:0, tvg-id="Nat Geo Wild ES" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" tvg-name="Nat Geo Wild ES"  group-title="Spain",Nat Geo Wild ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5476.ts
+#EXTINF:0, tvg-id="National Geographic ES" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" tvg-name="National Geographic ES"  group-title="Spain",National Geographic ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5455.ts
+#EXTINF:0, tvg-id="Neox ES" tvg-logo="http://secure.clientportal.link/picons/neox.png" tvg-name="Neox ES"  group-title="Spain",Neox ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9421.ts
+#EXTINF:0, tvg-id="Nick Jr. ES" tvg-logo="http://secure.clientportal.link/picons/nickjr.png" tvg-name="Nick Jr. ES"  group-title="Spain",Nick Jr. ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/14247.ts
+#EXTINF:0, tvg-id="Nickelodeon ES" tvg-logo="http://secure.clientportal.link/picons/nickelodeon.png" tvg-name="Nickelodeon ES"  group-title="Spain",Nickelodeon ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/14248.ts
+#EXTINF:0, tvg-id="Nova ES" tvg-logo="http://secure.clientportal.link/picons/nova.png" tvg-name="Nova ES"  group-title="Spain",Nova ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9422.ts
+#EXTINF:0, tvg-id="Odisea ES" tvg-logo="http://secure.clientportal.link/picons/odisea.png" tvg-name="Odisea ES"  group-title="Spain",Odisea ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9417.ts
+#EXTINF:0, tvg-id="Paramount Channel ES" tvg-logo="http://secure.clientportal.link/picons/paramountchannel.png" tvg-name="Paramount Channel ES"  group-title="Spain",Paramount Channel ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9446.ts
+#EXTINF:0, tvg-id="Real Madrid TV ES" tvg-logo="http://secure.clientportal.link/picons/realmadridtv.png" tvg-name="Real Madrid TV ES"  group-title="Spain",Real Madrid TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5420.ts
+#EXTINF:0, tvg-id="Sol Musica ES" tvg-logo="http://secure.clientportal.link/picons/solmusica.png" tvg-name="Sol Musica ES"  group-title="Spain",Sol Musica ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9432.ts
+#EXTINF:0, tvg-id="Syfy ES" tvg-logo="http://secure.clientportal.link/picons/syfy.png" tvg-name="Syfy ES"  group-title="Spain",Syfy ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5417.ts
+#EXTINF:0, tvg-id="TCM ES" tvg-logo="http://secure.clientportal.link/picons/tcm.png" tvg-name="TCM ES"  group-title="Spain",TCM ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9445.ts
+#EXTINF:0, tvg-id="TNT ES" tvg-logo="http://secure.clientportal.link/picons/tntchannel.png" tvg-name="TNT ES"  group-title="Spain",TNT ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9423.ts
+#EXTINF:0, tvg-id="TV3 Catalunya ES" tvg-logo="http://secure.clientportal.link/picons/tv3catalunya.png" tvg-name="TV3 Catalunya ES"  group-title="Spain",TV3 Catalunya ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9436.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 1 HD ES"  group-title="Spain",Taquilla 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15615.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 10 HD ES"  group-title="Spain",Taquilla 10 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15624.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 11 HD ES"  group-title="Spain",Taquilla 11 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15625.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 12 HD ES"  group-title="Spain",Taquilla 12 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15626.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 13 HD ES"  group-title="Spain",Taquilla 13 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15627.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 14 HD ES"  group-title="Spain",Taquilla 14 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15628.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 15 HD ES"  group-title="Spain",Taquilla 15 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15629.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 16 HD ES"  group-title="Spain",Taquilla 16 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15630.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 17 HD ES"  group-title="Spain",Taquilla 17 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15631.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 2 HD ES"  group-title="Spain",Taquilla 2 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15616.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 3 HD ES"  group-title="Spain",Taquilla 3 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15617.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 4 HD ES"  group-title="Spain",Taquilla 4 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15618.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 5 HD ES"  group-title="Spain",Taquilla 5 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15619.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 6 HD ES"  group-title="Spain",Taquilla 6 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15620.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 7 HD ES"  group-title="Spain",Taquilla 7 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15621.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 8 HD ES"  group-title="Spain",Taquilla 8 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15622.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taquilla 9 HD ES"  group-title="Spain",Taquilla 9 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/15623.ts
+#EXTINF:0, tvg-id="Telecinco ES" tvg-logo="http://secure.clientportal.link/picons/telecinco.png" tvg-name="Telecinco ES"  group-title="Spain",Telecinco ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5415.ts
+#EXTINF:0, tvg-id="Teledeporte ES" tvg-logo="http://secure.clientportal.link/picons/teledeporte.png" tvg-name="Teledeporte ES"  group-title="Spain",Teledeporte ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5414.ts
+#EXTINF:0, tvg-id="Canal Plus Toros ES" tvg-logo="http://secure.clientportal.link/picons/torostv.png" tvg-name="Toros TV ES"  group-title="Spain",Toros TV ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/5437.ts
+#EXTINF:0, tvg-id="Viajar ES" tvg-logo="http://secure.clientportal.link/picons/viajar.png" tvg-name="Viajar ES"  group-title="Spain",Viajar ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9424.ts
+#EXTINF:0, tvg-id="beIN Sports ES" tvg-logo="http://secure.clientportal.link/picons/beinsports.png" tvg-name="beIN SPORTS España ES"  group-title="Spain",beIN SPORTS España ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/9407.ts
+#EXTINF:0, tvg-id="0 Number ES" tvg-logo="http://secure.clientportal.link/picons/0number.png" tvg-name="#0 HD ES"  group-title="Spain",#0 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12734.ts
+#EXTINF:0, tvg-id="AMC ES" tvg-logo="http://secure.clientportal.link/picons/amchd.png" tvg-name="AMC HD ES"  group-title="Spain",AMC HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12733.ts
+#EXTINF:0, tvg-id="Antena 3 ES" tvg-logo="http://secure.clientportal.link/picons/antena3hd.png" tvg-name="Antena 3 HD ES"  group-title="Spain",Antena 3 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12732.ts
+#EXTINF:0, tvg-id="AXN ES" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" tvg-name="AXN HD ES"  group-title="Spain",AXN HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12731.ts
+#EXTINF:0, tvg-id="AXN White ES" tvg-logo="http://secure.clientportal.link/picons/axnwhitehd.png" tvg-name="AXN White HD ES"  group-title="Spain",AXN White HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12730.ts
+#EXTINF:0, tvg-id="beIN Sports LaLiga ES" tvg-logo="http://secure.clientportal.link/picons/beinsportslaliga.png" tvg-name="beIN LaLiga 1 HD ES"  group-title="Spain",beIN LaLiga 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13660.ts
+#EXTINF:0, tvg-id="FOX ES" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" tvg-name="FOX HD ES"  group-title="Spain",FOX HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13661.ts
+#EXTINF:0, tvg-id="beIN Sports ES" tvg-logo="http://secure.clientportal.link/picons/beinsports.png" tvg-name="beIN SPORTS España HD ES"  group-title="Spain",beIN SPORTS España HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12729.ts
+#EXTINF:0, tvg-id="beIN Sports LaLiga ES" tvg-logo="http://secure.clientportal.link/picons/beinsportslaliga.png" tvg-name="beIN SPORTS LaLiga HD ES"  group-title="Spain",beIN SPORTS LaLiga HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12719.ts
+#EXTINF:0, tvg-id="beIN Sports MAX 1 ES" tvg-logo="http://secure.clientportal.link/picons/beinsportsmax1hd.png" tvg-name="beIN SPORTS MAX 1 España HD ES"  group-title="Spain",beIN SPORTS MAX 1 España HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13662.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/beinsportsmax2hd.png" tvg-name="beIN SPORTS MAX 2 España HD ES"  group-title="Spain",beIN SPORTS MAX 2 España HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13663.ts
+#EXTINF:0, tvg-id="Movistar Series ES" tvg-logo="http://secure.clientportal.link/picons/movistarseries.png" tvg-name="Movistar Series HD ES"  group-title="Spain",Movistar Series HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13664.ts
+#EXTINF:0, tvg-id="Calle 13 ES" tvg-logo="http://secure.clientportal.link/picons/calle13hd.png" tvg-name="Calle 13 HD ES"  group-title="Spain",Calle 13 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12728.ts
+#EXTINF:0, tvg-id="Viajar ES" tvg-logo="http://secure.clientportal.link/picons/viajarhd.png" tvg-name="Viajar HD ES"  group-title="Spain",Viajar HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12717.ts
+#EXTINF:0, tvg-id="Caza y Pesca ES" tvg-logo="http://secure.clientportal.link/picons/cazaypesca.png" tvg-name="Caza y Pesca HD ES"  group-title="Spain",Caza y Pesca HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/13659.ts
+#EXTINF:0, tvg-id="Comedy Central ES" tvg-logo="http://secure.clientportal.link/picons/comedycentralhd.png" tvg-name="Comedy Central HD ES"  group-title="Spain",Comedy Central HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12711.ts
+#EXTINF:0, tvg-id="COSMO ES" tvg-logo="http://secure.clientportal.link/picons/cosmohd.png" tvg-name="Cosmo HD ES"  group-title="Spain",Cosmo HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12710.ts
+#EXTINF:0, tvg-id="Cuatro ES" tvg-logo="http://secure.clientportal.link/picons/cuatrohd.png" tvg-name="Cuatro HD ES"  group-title="Spain",Cuatro HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12709.ts
+#EXTINF:0, tvg-id="Disney Channel ES" tvg-logo="http://secure.clientportal.link/picons/disneychannelhd.png" tvg-name="Disney Channel HD ES"  group-title="Spain",Disney Channel HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12708.ts
+#EXTINF:0, tvg-id="Eurosport 1 ES" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" tvg-name="Eurosport 1 HD ES"  group-title="Spain",Eurosport 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12707.ts
+#EXTINF:0, tvg-id="FOX Life ES" tvg-logo="http://secure.clientportal.link/picons/foxlifehd.png" tvg-name="Fox Life HD ES"  group-title="Spain",Fox Life HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12706.ts
+#EXTINF:0, tvg-id="Hollywood ES" tvg-logo="http://secure.clientportal.link/picons/hollywoodhd.png" tvg-name="Hollywood HD ES"  group-title="Spain",Hollywood HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12705.ts
+#EXTINF:0, tvg-id="LA 1 ES" tvg-logo="http://secure.clientportal.link/picons/la1hd.png" tvg-name="La 1 HD ES"  group-title="Spain",La 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12704.ts
+#EXTINF:0, tvg-id="La Sexta ES" tvg-logo="http://secure.clientportal.link/picons/lasextahd.png" tvg-name="La Sexta HD ES"  group-title="Spain",La Sexta HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12703.ts
+#EXTINF:0, tvg-id="Canal Plus Liga ES" tvg-logo="http://secure.clientportal.link/picons/laligatv.png" tvg-name="LaLiga TV Bar HD ES"  group-title="Spain",LaLiga TV Bar HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12718.ts
+#EXTINF:0, tvg-id="Mezzo ES" tvg-logo="http://secure.clientportal.link/picons/mezzolivehd.png" tvg-name="Mezzo Live HD ES"  group-title="Spain",Mezzo Live HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12702.ts
+#EXTINF:0, tvg-id="Movistar Accion ES" tvg-logo="http://secure.clientportal.link/picons/movistaraccion.png" tvg-name="Movistar Acción HD ES"  group-title="Spain",Movistar Acción HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12727.ts
+#EXTINF:0, tvg-id="Movistar Comedia ES" tvg-logo="http://secure.clientportal.link/picons/movistarcomedia.png" tvg-name="Movistar Comedia HD ES"  group-title="Spain",Movistar Comedia HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12726.ts
+#EXTINF:0, tvg-id="Movistar DCine ES" tvg-logo="http://secure.clientportal.link/picons/movistardcine.png" tvg-name="Movistar DCine HD ES"  group-title="Spain",Movistar DCine HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12725.ts
+#EXTINF:0, tvg-id="Movistar Deportes 1 ES" tvg-logo="http://secure.clientportal.link/picons/movistardeportes1.png" tvg-name="Movistar Deportes 1 HD ES"  group-title="Spain",Movistar Deportes 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12723.ts
+#EXTINF:0, tvg-id="Movistar Deportes 2 ES" tvg-logo="http://secure.clientportal.link/picons/movistardeportes2.png" tvg-name="Movistar Deportes 2 HD ES"  group-title="Spain",Movistar Deportes 2 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12724.ts
+#EXTINF:0, tvg-id="Movistar Estrenos ES" tvg-logo="http://secure.clientportal.link/picons/movistarestrenos.png" tvg-name="Movistar Estrenos HD ES"  group-title="Spain",Movistar Estrenos HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12722.ts
+#EXTINF:0, tvg-id="Movistar Formula 1 ES" tvg-logo="http://secure.clientportal.link/picons/movistarformula1.png" tvg-name="Movistar Formula 1 HD ES"  group-title="Spain",Movistar Formula 1 HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12701.ts
+#EXTINF:0, tvg-id="Movistar Futbol ES" tvg-logo="http://secure.clientportal.link/picons/movistarfutbol.png" tvg-name="Movistar Fútbol HD ES"  group-title="Spain",Movistar Fútbol HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12721.ts
+#EXTINF:0, tvg-id="Movistar Golf ES" tvg-logo="http://secure.clientportal.link/picons/movistargolf.png" tvg-name="Movistar Golf HD ES"  group-title="Spain",Movistar Golf HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12720.ts
+#EXTINF:0, tvg-id="Movistar MotoGP ES" tvg-logo="http://secure.clientportal.link/picons/movistarmotogp.png" tvg-name="Movistar MotoGP HD ES"  group-title="Spain",Movistar MotoGP HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12700.ts
+#EXTINF:0, tvg-id="Canal Plus Partidazo ES" tvg-logo="http://secure.clientportal.link/picons/movistarpartidazo.png" tvg-name="Movistar Partidazo HD ES"  group-title="Spain",Movistar Partidazo HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12716.ts
+#EXTINF:0, tvg-id="Movistar Series Xtra ES" tvg-logo="http://secure.clientportal.link/picons/movistarseriesxtra.png" tvg-name="Movistar Series Xtra HD ES"  group-title="Spain",Movistar Series Xtra HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12714.ts
+#EXTINF:0, tvg-id="Movistar Xtra ES" tvg-logo="http://secure.clientportal.link/picons/movistarxtra.png" tvg-name="Movistar Xtra HD ES"  group-title="Spain",Movistar Xtra HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12712.ts
+#EXTINF:0, tvg-id="Nat Geo Wild ES" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" tvg-name="Nat Geo Wild HD ES"  group-title="Spain",Nat Geo Wild HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12698.ts
+#EXTINF:0, tvg-id="National Geographic ES" tvg-logo="http://secure.clientportal.link/picons/nationalgeographichd.png" tvg-name="National Geographic HD ES"  group-title="Spain",National Geographic HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12699.ts
+#EXTINF:0, tvg-id="Nickelodeon ES" tvg-logo="http://secure.clientportal.link/picons/nickelodeon.png" tvg-name="Nickelodeon HD ES"  group-title="Spain",Nickelodeon HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12697.ts
+#EXTINF:0, tvg-id="Syfy ES" tvg-logo="http://secure.clientportal.link/picons/syfyhd.png" tvg-name="Syfy HD ES"  group-title="Spain",Syfy HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12696.ts
+#EXTINF:0, tvg-id="TCM ES" tvg-logo="http://secure.clientportal.link/picons/tcmhd.png" tvg-name="TCM HD ES"  group-title="Spain",TCM HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12695.ts
+#EXTINF:0, tvg-id="Telecinco ES" tvg-logo="http://secure.clientportal.link/picons/telecincohd.png" tvg-name="Telecinco HD ES"  group-title="Spain",Telecinco HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12694.ts
+#EXTINF:0, tvg-id="TNT ES" tvg-logo="http://secure.clientportal.link/picons/tnthd.png" tvg-name="TNT HD ES"  group-title="Spain",TNT HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12693.ts
+#EXTINF:0, tvg-id="Toros TV ES" tvg-logo="http://secure.clientportal.link/picons/torostv.png" tvg-name="Toros TV HD ES"  group-title="Spain",Toros TV HD ES
+http://clientportal.link:8080/live/Jesus001/Jasus001/12713.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="########   Germany   ########"  group-title="Germany",########   Germany   ########
+http://clientportal.link:8080/live/Jesus001/Jasus001/13303.ts
+#EXTINF:0, tvg-id="1-2-3.tv DE" tvg-logo="http://secure.clientportal.link/picons/123tv.png" tvg-name="1-2-3.tv DE"  group-title="Germany",1-2-3.tv DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12342.ts
+#EXTINF:0, tvg-id="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreet.png" tvg-name="13th Street DE"  group-title="Germany",13th Street DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3428.ts
+#EXTINF:0, tvg-id="3sat DE" tvg-logo="http://secure.clientportal.link/picons/3sat.png" tvg-name="3sat DE"  group-title="Germany",3sat DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12341.ts
+#EXTINF:0, tvg-id="AandE DE" tvg-logo="http://secure.clientportal.link/picons/ae.png" tvg-name="A&E DE"  group-title="Germany",A&E DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13109.ts
+#EXTINF:0, tvg-id="ANIXE DE" tvg-logo="http://secure.clientportal.link/picons/anixe.png" tvg-name="ANIXE DE"  group-title="Germany",ANIXE DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3445.ts
+#EXTINF:0, tvg-id="AXN HD DE" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" tvg-name="AXN HD DE"  group-title="Germany",AXN HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9562.ts
+#EXTINF:0, tvg-id="Animal Planet DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" tvg-name="Animal Planet HD DE"  group-title="Germany",Animal Planet HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9561.ts
+#EXTINF:0, tvg-id="arte DE" tvg-logo="http://secure.clientportal.link/picons/arte.png" tvg-name="Arte HD DE"  group-title="Germany",Arte HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3827.ts
+#EXTINF:0, tvg-id="Astro TV DE" tvg-logo="http://secure.clientportal.link/picons/astrotv.png" tvg-name="Astro TV DE"  group-title="Germany",Astro TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12339.ts
+#EXTINF:0, tvg-id="BR Fernsehen Nord DE" tvg-logo="http://secure.clientportal.link/picons/br.png" tvg-name="BR Fernsehen Nord DE"  group-title="Germany",BR Fernsehen Nord DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12322.ts
+#EXTINF:0, tvg-id="BR Fernsehen Süd DE" tvg-logo="http://secure.clientportal.link/picons/br.png" tvg-name="BR Fernsehen Süd DE"  group-title="Germany",BR Fernsehen Süd DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12321.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BTV DE"  group-title="Germany",BTV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12320.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/babytv.png" tvg-name="Boomerang DE"  group-title="Germany",Boomerang DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12315.ts
+#EXTINF:0, tvg-id="CLASSICA DE" tvg-logo="http://secure.clientportal.link/picons/classica.png" tvg-name="CLASSICA DE"  group-title="Germany",CLASSICA DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9555.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DKULTUR DE"  group-title="Germany",DKULTUR DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12338.ts
+#EXTINF:0, tvg-id="DMAX DE" tvg-logo="http://secure.clientportal.link/picons/dmax.png" tvg-name="DMAX DE"  group-title="Germany",DMAX DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3431.ts
+#EXTINF:0, tvg-id="Das Erste DE" tvg-logo="http://secure.clientportal.link/picons/daserstehd.png" tvg-name="Das Erste  DE"  group-title="Germany",Das Erste  DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3451.ts
+#EXTINF:0, tvg-id="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusic.png" tvg-name="Deluxe Music DE"  group-title="Germany",Deluxe Music DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9554.ts
+#EXTINF:0, tvg-id="Deutsches Musik Fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/deutschesmusikfernsehen.png" tvg-name="Deutsches Musik Fernsehen DE"  group-title="Germany",Deutsches Musik Fernsehen DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12334.ts
+#EXTINF:0, tvg-id="Discovery Channel DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" tvg-name="Discovery Channel HD DE"  group-title="Germany",Discovery Channel HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3426.ts
+#EXTINF:0, tvg-id="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" tvg-name="Disney Channel DE"  group-title="Germany",Disney Channel DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3622.ts
+#EXTINF:0, tvg-id="Disney Cinemagic DE" tvg-logo="http://secure.clientportal.link/picons/disneycinemagichd.png" tvg-name="Disney Cinemagic HD DE"  group-title="Germany",Disney Cinemagic HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9548.ts
+#EXTINF:0, tvg-id="Disney Junior DE" tvg-logo="http://secure.clientportal.link/picons/disneyjunior.png" tvg-name="Disney Junior DE"  group-title="Germany",Disney Junior DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9549.ts
+#EXTINF:0, tvg-id="Disney XD DE" tvg-logo="http://secure.clientportal.link/picons/disneyxd.png" tvg-name="Disney XD DE"  group-title="Germany",Disney XD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9547.ts
+#EXTINF:0, tvg-id="E! DE" tvg-logo="http://secure.clientportal.link/picons/e.png" tvg-name="E! DE"  group-title="Germany",E! DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3828.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="E8 Television DE"  group-title="Germany",E8 Television DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12337.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/ewtn.png" tvg-name="EWTN DE"  group-title="Germany",EWTN DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12336.ts
+#EXTINF:0, tvg-id="Eurosport 1 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" tvg-name="Eurosport 1 HD DE"  group-title="Germany",Eurosport 1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3435.ts
+#EXTINF:0, tvg-id="Eurosport 2 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" tvg-name="Eurosport 2 DE"  group-title="Germany",Eurosport 2 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9553.ts
+#EXTINF:0, tvg-id="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" tvg-name="FOX HD DE"  group-title="Germany",FOX HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3425.ts
+#EXTINF:0, tvg-id="Family TV DE" tvg-logo="http://secure.clientportal.link/picons/familytv.png" tvg-name="Family TV DE"  group-title="Germany",Family TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13108.ts
+#EXTINF:0, tvg-id="Folx TV DE" tvg-logo="http://secure.clientportal.link/picons/folxtv.png" tvg-name="Folx TV DE"  group-title="Germany",Folx TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12319.ts
+#EXTINF:0, tvg-id="Fox Series DE" tvg-logo="http://secure.clientportal.link/picons/fox.png" tvg-name="Fox Series DE"  group-title="Germany",Fox Series DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12294.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="GOTV DE"  group-title="Germany",GOTV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12318.ts
+#EXTINF:0, tvg-id="Goldstar TV DE" tvg-logo="http://secure.clientportal.link/picons/goldstartv.png" tvg-name="Goldstar TV DE"  group-title="Germany",Goldstar TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12293.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/axnaction.png" tvg-name="Gute Laune TV DE"  group-title="Germany",Gute Laune TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13110.ts
+#EXTINF:0, tvg-id="HSE24 DE" tvg-logo="http://secure.clientportal.link/picons/hse24.png" tvg-name="HSE24 DE"  group-title="Germany",HSE24 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12292.ts
+#EXTINF:0, tvg-id="HSE24 TREND DE" tvg-logo="http://secure.clientportal.link/picons/hse24trend.png" tvg-name="HSE24 TREND DE"  group-title="Germany",HSE24 TREND DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12335.ts
+#EXTINF:0, tvg-id="Heimatkanal DE" tvg-logo="http://secure.clientportal.link/picons/heimatkanal.png" tvg-name="Heimatkanal DE"  group-title="Germany",Heimatkanal DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9558.ts
+#EXTINF:0, tvg-id="History DE" tvg-logo="http://secure.clientportal.link/picons/history.png" tvg-name="History DE"  group-title="Germany",History DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3424.ts
+#EXTINF:0, tvg-id="Junior DE" tvg-logo="http://secure.clientportal.link/picons/junior.png" tvg-name="Junior TV DE"  group-title="Germany",Junior TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9550.ts
+#EXTINF:0, tvg-id="KiKa DE" tvg-logo="http://secure.clientportal.link/picons/kika.png" tvg-name="KiKa DE"  group-title="Germany",KiKa DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1648.ts
+#EXTINF:0, tvg-id="Kinowelt TV DE" tvg-logo="http://secure.clientportal.link/picons/kinowelttv.png" tvg-name="Kinowelt TV DE"  group-title="Germany",Kinowelt TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12291.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="L-TV/TVM DE"  group-title="Germany",L-TV/TVM DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12314.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LT1-OOE DE"  group-title="Germany",LT1-OOE DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12313.ts
+#EXTINF:0, tvg-id="MGM DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" tvg-name="MGM HD DE"  group-title="Germany",MGM HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3423.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MediaShop- Neuheiten DE"  group-title="Germany",MediaShop- Neuheiten DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12333.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/mediaspartv.png" tvg-name="MediasparTV Homeshopping DE"  group-title="Germany",MediasparTV Homeshopping DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12332.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mei Musi TV DE"  group-title="Germany",Mei Musi TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12312.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MeinTVShop DE"  group-title="Germany",MeinTVShop DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12331.ts
+#EXTINF:0, tvg-id="Motorvision TV DE" tvg-logo="http://secure.clientportal.link/picons/motorvision.png" tvg-name="Motorvision TV DE"  group-title="Germany",Motorvision TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9564.ts
+#EXTINF:0, tvg-id="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" tvg-name="N24 DE"  group-title="Germany",N24 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3448.ts
+#EXTINF:0, tvg-id="NDR DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" tvg-name="NDR HD DE"  group-title="Germany",NDR HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3443.ts
+#EXTINF:0, tvg-id="Nat Geo Wild DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" tvg-name="Nat Geo Wild HD DE"  group-title="Germany",Nat Geo Wild HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1646.ts
+#EXTINF:0, tvg-id="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" tvg-name="National Geographic DE"  group-title="Germany",National Geographic DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3419.ts
+#EXTINF:0, tvg-id="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" tvg-name="ORF 2 DE"  group-title="Germany",ORF 2 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1644.ts
+#EXTINF:0, tvg-id="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" tvg-name="ORF 2E DE"  group-title="Germany",ORF 2E DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12304.ts
+#EXTINF:0, tvg-id="ORF III DE" tvg-logo="http://secure.clientportal.link/picons/orfiii.png" tvg-name="ORF III DE"  group-title="Germany",ORF III DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12303.ts
+#EXTINF:0, tvg-id="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeins.png" tvg-name="ORF eins DE"  group-title="Germany",ORF eins DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12302.ts
+#EXTINF:0, tvg-id="PHOENIX DE" tvg-logo="http://secure.clientportal.link/picons/phoenix.png" tvg-name="Phoenix DE"  group-title="Germany",Phoenix DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3454.ts
+#EXTINF:0, tvg-id="ProSieben DE" tvg-logo="http://secure.clientportal.link/picons/prosieben.png" tvg-name="ProSieben DE"  group-title="Germany",ProSieben DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1642.ts
+#EXTINF:0, tvg-id="ProSieben Maxx DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenmaxx.png" tvg-name="ProSieben Maxx DE"  group-title="Germany",ProSieben Maxx DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3444.ts
+#EXTINF:0, tvg-id="QVC Beauty DE" tvg-logo="http://secure.clientportal.link/picons/qvcbeautystyle.png" tvg-name="QVC BEAUTY&STYLE DE"  group-title="Germany",QVC BEAUTY&STYLE DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12329.ts
+#EXTINF:0, tvg-id="QVC DE" tvg-logo="http://secure.clientportal.link/picons/qvc.png" tvg-name="QVC DE"  group-title="Germany",QVC DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12330.ts
+#EXTINF:0, tvg-id="RTL Crime DE" tvg-logo="http://secure.clientportal.link/picons/rtlcrime.png" tvg-name="RTL Crime DE"  group-title="Germany",RTL Crime DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1650.ts
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL DE"  group-title="Germany",RTL DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3825.ts
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL FS DE"  group-title="Germany",RTL FS DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12300.ts
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL HB NDS DE"  group-title="Germany",RTL HB NDS DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12299.ts
+#EXTINF:0, tvg-id="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2.png" tvg-name="RTL II DE"  group-title="Germany",RTL II DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3826.ts
+#EXTINF:0, tvg-id="RTL Living DE" tvg-logo="http://secure.clientportal.link/picons/rtlliving.png" tvg-name="RTL Living DE"  group-title="Germany",RTL Living DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3202.ts
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" tvg-name="RTL NITRO A DE"  group-title="Germany",RTL NITRO A DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12301.ts
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" tvg-name="RTL NITRO DE"  group-title="Germany",RTL NITRO DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1639.ts
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" tvg-name="RTL NRW DE"  group-title="Germany",RTL NRW DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12298.ts
+#EXTINF:0, tvg-id="RTL Passion DE" tvg-logo="http://secure.clientportal.link/picons/rtlpassion.png" tvg-name="RTL Passion DE"  group-title="Germany",RTL Passion DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9563.ts
+#EXTINF:0, tvg-id="RTLplus DE" tvg-logo="http://secure.clientportal.link/picons/rtlplus.png" tvg-name="RTLplus DE"  group-title="Germany",RTLplus DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12297.ts
+#EXTINF:0, tvg-id="Regio tv DE" tvg-logo="http://secure.clientportal.link/picons/regiotv.png" tvg-name="Regio TV DE"  group-title="Germany",Regio TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12328.ts
+#EXTINF:0, tvg-id="RiC DE" tvg-logo="http://secure.clientportal.link/picons/ric.png" tvg-name="RiC DE"  group-title="Germany",RiC DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12311.ts
+#EXTINF:0, tvg-id="Romance TV DE" tvg-logo="http://secure.clientportal.link/picons/romancetv.png" tvg-name="Romance TV DE"  group-title="Germany",Romance TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13111.ts
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" tvg-name="SAT.1 Bayern DE"  group-title="Germany",SAT.1 Bayern DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12310.ts
+#EXTINF:0, tvg-id="Sat.1 Gold DE" tvg-logo="http://secure.clientportal.link/picons/sat1gold.png" tvg-name="SAT.1 Gold DE"  group-title="Germany",SAT.1 Gold DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12309.ts
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" tvg-name="SAT.1 HD DE"  group-title="Germany",SAT.1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1637.ts
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" tvg-name="SAT.1 NRW DE"  group-title="Germany",SAT.1 NRW DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12308.ts
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" tvg-name="SIXX Austria DE"  group-title="Germany",SIXX Austria DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12306.ts
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" tvg-name="SIXX DE"  group-title="Germany",SIXX DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9560.ts
+#EXTINF:0, tvg-id="SPIEGEL Geschichte DE" tvg-logo="http://secure.clientportal.link/picons/spiegelgeschichte.png" tvg-name="SPIEGEL Geschichte DE"  group-title="Germany",SPIEGEL Geschichte DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3621.ts
+#EXTINF:0, tvg-id="ZDFkultur DE" tvg-logo="http://secure.clientportal.link/picons/zdfkultur.png" tvg-name="SWR DE"  group-title="Germany",SWR DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12296.ts
+#EXTINF:0, tvg-id="ServusTV Deutschland DE" tvg-logo="http://secure.clientportal.link/picons/servustv.png" tvg-name="ServusTV Deutschland DE"  group-title="Germany",ServusTV Deutschland DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12307.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/jukebox.png" tvg-name="Sky 1 HD DE"  group-title="Germany",Sky 1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9557.ts
+#EXTINF:0, tvg-id="Sky Atlantic DE" tvg-logo="http://secure.clientportal.link/picons/skyatlantichd.png" tvg-name="Sky Atlantic HD DE"  group-title="Germany",Sky Atlantic HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1645.ts
+#EXTINF:0, tvg-id="Sky Cinema Plus24 DE" tvg-logo="http://secure.clientportal.link/picons/skycinemaplus24.png" tvg-name="Sky Cinema +24 DE"  group-title="Germany",Sky Cinema +24 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1633.ts
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinema.png" tvg-name="Sky Cinema DE"  group-title="Germany",Sky Cinema DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1634.ts
+#EXTINF:0, tvg-id="Sky Comedy DE" tvg-logo="http://secure.clientportal.link/picons/skycomedy.png" tvg-name="Sky Comedy DE"  group-title="Germany",Sky Comedy DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3430.ts
+#EXTINF:0, tvg-id="Sky Emotion DE" tvg-logo="http://secure.clientportal.link/picons/skyemotion.png" tvg-name="Sky Emotion DE"  group-title="Germany",Sky Emotion DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1631.ts
+#EXTINF:0, tvg-id="Sky Hits DE" tvg-logo="http://secure.clientportal.link/picons/skyhits.png" tvg-name="Sky Hits DE"  group-title="Germany",Sky Hits DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3203.ts
+#EXTINF:0, tvg-id="Sky Krimi DE" tvg-logo="http://secure.clientportal.link/picons/skykrimi.png" tvg-name="Sky Krimi DE"  group-title="Germany",Sky Krimi DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3429.ts
+#EXTINF:0, tvg-id="Sky Nostalgie DE" tvg-logo="http://secure.clientportal.link/picons/skynostalgie.png" tvg-name="Sky Nostalgie DE"  group-title="Germany",Sky Nostalgie DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9556.ts
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" tvg-name="Sky Sport 1 HD DE"  group-title="Germany",Sky Sport 1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1479.ts
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" tvg-name="Sky Sport 2 HD DE"  group-title="Germany",Sky Sport 2 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1480.ts
+#EXTINF:0, tvg-id="Sky Sport Austria DE" tvg-logo="http://secure.clientportal.link/picons/skysportaustria.png" tvg-name="Sky Sport Austria DE"  group-title="Germany",Sky Sport Austria DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9551.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" tvg-name="Sky Sport Bundesliga 1 HD DE"  group-title="Germany",Sky Sport Bundesliga 1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3436.ts
+#EXTINF:0, tvg-id="sonnenklar.TV DE" tvg-logo="http://secure.clientportal.link/picons/sonnenklartv.png" tvg-name="Sonnenklar.TV DE"  group-title="Germany",Sonnenklar.TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12327.ts
+#EXTINF:0, tvg-id="Sony TV DE" tvg-logo="http://secure.clientportal.link/picons/sonytvhd.png" tvg-name="Sony TV HD DE"  group-title="Germany",Sony TV HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3447.ts
+#EXTINF:0, tvg-id="SparhandyTV DE" tvg-logo="http://secure.clientportal.link/picons/sparhandytv.png" tvg-name="Sparhandy TV DE"  group-title="Germany",Sparhandy TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12326.ts
+#EXTINF:0, tvg-id="Sport1 DE" tvg-logo="http://secure.clientportal.link/picons/sport1.png" tvg-name="Sport1 DE"  group-title="Germany",Sport1 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/9552.ts
+#EXTINF:0, tvg-id="Sport1 US DE" tvg-logo="http://secure.clientportal.link/picons/sport1ushd.png" tvg-name="Sport1 US HD DE"  group-title="Germany",Sport1 US HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3450.ts
+#EXTINF:0, tvg-id="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtl.png" tvg-name="Super RTL DE"  group-title="Germany",Super RTL DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3456.ts
+#EXTINF:0, tvg-id="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfy.png" tvg-name="Syfy DE"  group-title="Germany",Syfy DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3204.ts
+#EXTINF:0, tvg-id="TLC DE" tvg-logo="http://secure.clientportal.link/picons/tlc.png" tvg-name="TLC DE"  group-title="Germany",TLC DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12324.ts
+#EXTINF:0, tvg-id="TNT Film DE" tvg-logo="http://secure.clientportal.link/picons/tntfilm.png" tvg-name="TNT Film DE"  group-title="Germany",TNT Film DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3422.ts
+#EXTINF:0, tvg-id="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntserie.png" tvg-name="TNT Serie DE"  group-title="Germany",TNT Serie DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3421.ts
+#EXTINF:0, tvg-id="TOGGO plus DE" tvg-logo="http://secure.clientportal.link/picons/toggoplus.png" tvg-name="TOGGO plus DE"  group-title="Germany",TOGGO plus DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12323.ts
+#EXTINF:0, tvg-id="Tele 5 DE" tvg-logo="http://secure.clientportal.link/picons/tele5.png" tvg-name="Tele 5 DE"  group-title="Germany",Tele 5 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12325.ts
+#EXTINF:0, tvg-id="Universal Channel DE" tvg-logo="http://secure.clientportal.link/picons/universalchannelhd.png" tvg-name="Universal Channel HD DE"  group-title="Germany",Universal Channel HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3439.ts
+#EXTINF:0, tvg-id="VOX DE" tvg-logo="http://secure.clientportal.link/picons/voxhd.png" tvg-name="VOX HD DE"  group-title="Germany",VOX HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1630.ts
+#EXTINF:0, tvg-id="Viva - Comedy Central DE" tvg-logo="http://secure.clientportal.link/picons/vivacomedycentral.png" tvg-name="Viva / Comedy Central DE"  group-title="Germany",Viva / Comedy Central DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12317.ts
+#EXTINF:0, tvg-id="WDR DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" tvg-name="WDR HD DE"  group-title="Germany",WDR HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3442.ts
+#EXTINF:0, tvg-id="Welt der Wunder DE" tvg-logo="http://secure.clientportal.link/picons/weltderwunder.png" tvg-name="Welt der Wunder DE"  group-title="Germany",Welt der Wunder DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12305.ts
+#EXTINF:0, tvg-id="ZDF DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" tvg-name="ZDF DE"  group-title="Germany",ZDF DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1629.ts
+#EXTINF:0, tvg-id="Zee One DE" tvg-logo="http://secure.clientportal.link/picons/zeeone.png" tvg-name="Zee One DE"  group-title="Germany",Zee One DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13112.ts
+#EXTINF:0, tvg-id="HR-Fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/hr.png" tvg-name="hr fernsehen DE"  group-title="Germany",hr fernsehen DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12316.ts
+#EXTINF:0, tvg-id="kabel eins DE" tvg-logo="http://secure.clientportal.link/picons/kabeleinshd.png" tvg-name="kabel eins HD DE"  group-title="Germany",kabel eins HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1649.ts
+#EXTINF:0, tvg-id="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntv.png" tvg-name="n-tv DE"  group-title="Germany",n-tv DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3449.ts
+#EXTINF:0, tvg-id="sportdigital DE" tvg-logo="http://secure.clientportal.link/picons/sportdigital.png" tvg-name="sportdigital DE"  group-title="Germany",sportdigital DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3841.ts
+#EXTINF:0, tvg-id="ZDFinfo DE" tvg-logo="http://secure.clientportal.link/picons/zdfinfo.png" tvg-name="zdf info DE"  group-title="Germany",zdf info DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12295.ts
+#EXTINF:0, tvg-id="ZDFneo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" tvg-name="zdf_neo DE"  group-title="Germany",zdf_neo DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3453.ts
+#EXTINF:0, tvg-id="Sky Action DE" tvg-logo="http://secure.clientportal.link/picons/skyactionhd.png" tvg-name="Sky Action HD DE"  group-title="Germany",Sky Action HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3432.ts
+#EXTINF:0, tvg-id="Sky Sport News DE" tvg-logo="http://secure.clientportal.link/picons/skysportnews.png" tvg-name="Sky Sport News DE"  group-title="Germany",Sky Sport News DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14577.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/sophiatv.png" tvg-name="Sophia-TV DE"  group-title="Germany",Sophia-TV DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14568.ts
+#EXTINF:0, tvg-id="QVC DE" tvg-logo="http://secure.clientportal.link/picons/qvchd.png" tvg-name="QVC HD 1080P DE"  group-title="Germany",QVC HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14569.ts
+#EXTINF:0, tvg-id="Nickelodeon DE" tvg-logo="http://secure.clientportal.link/picons/nickelodeon.png" tvg-name="Nickelodeon 1080P HD DE"  group-title="Germany",Nickelodeon 1080P HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14571.ts
+#EXTINF:0, tvg-id="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" tvg-name="N24 1080P HD DE"  group-title="Germany",N24 1080P HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14573.ts
+#EXTINF:0, tvg-id="HSE24 DE" tvg-logo="http://secure.clientportal.link/picons/hse24.png" tvg-name="HSE24 HD 1080P DE"  group-title="Germany",HSE24 HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14574.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Genius Plus DE"  group-title="Germany",Genius Plus DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14575.ts
+#EXTINF:0, tvg-id="ANIXE DE" tvg-logo="http://secure.clientportal.link/picons/anixehd.png" tvg-name="ANIXE HD 1080P DE"  group-title="Germany",ANIXE HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14576.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1.png" tvg-name="Sky Sport Bundesliga 1 DE"  group-title="Germany",Sky Sport Bundesliga 1 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14550.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2.png" tvg-name="Sky Sport Bundesliga 2 DE"  group-title="Germany",Sky Sport Bundesliga 2 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14551.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3.png" tvg-name="Sky Sport Bundesliga 3 DE"  group-title="Germany",Sky Sport Bundesliga 3 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14552.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4.png" tvg-name="Sky Sport Bundesliga 4 DE"  group-title="Germany",Sky Sport Bundesliga 4 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14553.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5.png" tvg-name="Sky Sport Bundesliga 5 DE"  group-title="Germany",Sky Sport Bundesliga 5 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14554.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6.png" tvg-name="Sky Sport Bundesliga 6 DE"  group-title="Germany",Sky Sport Bundesliga 6 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14555.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8.png" tvg-name="Sky Sport Bundesliga 8 DE"  group-title="Germany",Sky Sport Bundesliga 8 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14556.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9.png" tvg-name="Sky Sport Bundesliga 9 DE"  group-title="Germany",Sky Sport Bundesliga 9 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14557.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10.png" tvg-name="Sky Sport Bundesliga 10 DE"  group-title="Germany",Sky Sport Bundesliga 10 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14558.ts
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1de.png" tvg-name="Sky Sport 1 DE"  group-title="Germany",Sky Sport 1 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14559.ts
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2de.png" tvg-name="Sky Sport 2 DE"  group-title="Germany",Sky Sport 2 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14560.ts
+#EXTINF:0, tvg-id="Sky Sport 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysport3de.png" tvg-name="Sky Sport 3 DE"  group-title="Germany",Sky Sport 3 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14561.ts
+#EXTINF:0, tvg-id="Sky Sport 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysport4de.png" tvg-name="Sky Sport 4 DE"  group-title="Germany",Sky Sport 4 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14562.ts
+#EXTINF:0, tvg-id="Sky Sport 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysport5de.png" tvg-name="Sky Sport 5 DE"  group-title="Germany",Sky Sport 5 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14563.ts
+#EXTINF:0, tvg-id="Sky Sport 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysport6de.png" tvg-name="Sky Sport 6 DE"  group-title="Germany",Sky Sport 6 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14564.ts
+#EXTINF:0, tvg-id="Sky Sport 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysport7de.png" tvg-name="Sky Sport 7 DE"  group-title="Germany",Sky Sport 7 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14565.ts
+#EXTINF:0, tvg-id="Sky Sport 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysport8de.png" tvg-name="Sky Sport 8 DE"  group-title="Germany",Sky Sport 8 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14566.ts
+#EXTINF:0, tvg-id="Sky Sport 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysport9de.png" tvg-name="Sky Sport 9 DE"  group-title="Germany",Sky Sport 9 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14567.ts
+#EXTINF:0, tvg-id="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntseriehd.png" tvg-name="TNT Serie HD 1080P DE"  group-title="Germany",TNT Serie HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14303.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skysportfanzonehd.png" tvg-name="Sky Sport Fanzone HD 1080P DE"  group-title="Germany",Sky Sport Fanzone HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14304.ts
+#EXTINF:0, tvg-id="Sky Hits DE" tvg-logo="http://secure.clientportal.link/picons/skyhitshd.png" tvg-name="Sky Hits HD 1080P DE"  group-title="Germany",Sky Hits HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14305.ts
+#EXTINF:0, tvg-id="Sky Atlantic DE" tvg-logo="http://secure.clientportal.link/picons/skyatlantichd.png" tvg-name="Sky Atlantic HD 1080P DE"  group-title="Germany",Sky Atlantic HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14306.ts
+#EXTINF:0, tvg-id="Sky Action DE" tvg-logo="http://secure.clientportal.link/picons/skyactionhd.png" tvg-name="Sky Action HD 1080P DE"  group-title="Germany",Sky Action HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14307.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/sky3d.png" tvg-name="Sky 3D 1080P DE"  group-title="Germany",Sky 3D 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14308.ts
+#EXTINF:0, tvg-id="MGM DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" tvg-name="MGM HD 1080P DE"  group-title="Germany",MGM HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14310.ts
+#EXTINF:0, tvg-id="History DE" tvg-logo="http://secure.clientportal.link/picons/historyhd.png" tvg-name="History HD 1080P DE"  group-title="Germany",History HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14311.ts
+#EXTINF:0, tvg-id="Disney Cinemagic DE" tvg-logo="http://secure.clientportal.link/picons/disneycinemagichd.png" tvg-name="Disney Cinemagic HD 1080P DE"  group-title="Germany",Disney Cinemagic HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14312.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" tvg-name="HR HD DE"  group-title="Germany",HR HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14313.ts
+#EXTINF:0, tvg-id="Discovery Channel DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" tvg-name="Discovery Channel HD 1080P DE"  group-title="Germany",Discovery Channel HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14063.ts
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinemahd.png" tvg-name="Sky Cinema HD 1080P DE"  group-title="Germany",Sky Cinema HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14061.ts
+#EXTINF:0, tvg-id="Nat Geo Wild DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" tvg-name="Nat Geo Wild HD 1080P DE"  group-title="Germany",Nat Geo Wild HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14062.ts
+#EXTINF:0, tvg-id="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfyhd.png" tvg-name="Syfy HD 1080P DE"  group-title="Germany",Syfy HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14043.ts
+#EXTINF:0, tvg-id="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtlhd.png" tvg-name="Super RTL HD 1080P DE"  group-title="Germany",Super RTL HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14044.ts
+#EXTINF:0, tvg-id="SPIEGEL TV Wissen DE" tvg-logo="http://secure.clientportal.link/picons/spiegeltvwissen.png" tvg-name="SPIEGEL TV Wissen HD 1080P DE"  group-title="Germany",SPIEGEL TV Wissen HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14045.ts
+#EXTINF:0, tvg-id="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixxhd.png" tvg-name="SIXX HD 1080P DE"  group-title="Germany",SIXX HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14046.ts
+#EXTINF:0, tvg-id="VOX DE" tvg-logo="http://secure.clientportal.link/picons/voxhd.png" tvg-name="VOX HD 1080P DE"  group-title="Germany",VOX HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14291.ts
+#EXTINF:0, tvg-id="SAT.1 DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" tvg-name="SAT.1 HD 1080P DE"  group-title="Germany",SAT.1 HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14047.ts
+#EXTINF:0, tvg-id="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitrohd.png" tvg-name="RTL NITRO HD 1080P DE"  group-title="Germany",RTL NITRO HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14048.ts
+#EXTINF:0, tvg-id="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtlhd.png" tvg-name="RTL HD 1080P DE"  group-title="Germany",RTL HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14049.ts
+#EXTINF:0, tvg-id="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2hd.png" tvg-name="RTL II HD 1080P DE"  group-title="Germany",RTL II HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14050.ts
+#EXTINF:0, tvg-id="Pro7 Maxx HD DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenmaxxhd.png" tvg-name="ProSieben Maxx HD 1080P DE"  group-title="Germany",ProSieben Maxx HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14051.ts
+#EXTINF:0, tvg-id="Pro7 HD DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenhd.png" tvg-name="ProSieben HD 1080P DE"  group-title="Germany",ProSieben HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14052.ts
+#EXTINF:0, tvg-id="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographichd.png" tvg-name="National Geographic HD 1080P DE"  group-title="Germany",National Geographic HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14053.ts
+#EXTINF:0, tvg-id="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntvhd.png" tvg-name="n-tv HD 1080P DE"  group-title="Germany",n-tv HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14054.ts
+#EXTINF:0, tvg-id="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" tvg-name="FOX HD 1080P DE"  group-title="Germany",FOX HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14055.ts
+#EXTINF:0, tvg-id="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannelhd.png" tvg-name="Disney Channel HD 1080P DE"  group-title="Germany",Disney Channel HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14056.ts
+#EXTINF:0, tvg-id="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusichd.png" tvg-name="Deluxe Music HD 1080P DE"  group-title="Germany",Deluxe Music HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14057.ts
+#EXTINF:0, tvg-id="Animal Planet DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" tvg-name="Animal Planet HD 1080P DE"  group-title="Germany",Animal Planet HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14058.ts
+#EXTINF:0, tvg-id="AandE DE" tvg-logo="http://secure.clientportal.link/picons/aehd.png" tvg-name="A&E HD 1080P DE"  group-title="Germany",A&E HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14059.ts
+#EXTINF:0, tvg-id="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreethd.png" tvg-name="13th Street HD 1080P DE"  group-title="Germany",13th Street HD 1080P DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/14060.ts
+#EXTINF:0, tvg-id="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinemahd.png" tvg-name="Sky Cinema HD DE"  group-title="Germany",Sky Cinema HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3420.ts
+#EXTINF:0, tvg-id="Sky Cinema Plus1 DE" tvg-logo="http://secure.clientportal.link/picons/skycinemaplus1hd.png" tvg-name="Sky Cinema +1 DE"  group-title="Germany",Sky Cinema +1 DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/3434.ts
+#EXTINF:0, tvg-id="Sky Select DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select DE"  group-title="Germany",Sky Select DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12290.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 1 Live DE"  group-title="Germany",Sky Select 1 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11265.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 2 Live DE"  group-title="Germany",Sky Select 2 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11266.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 3 Live DE"  group-title="Germany",Sky Select 3 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11267.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 4 Live DE"  group-title="Germany",Sky Select 4 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11268.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 5 Live DE"  group-title="Germany",Sky Select 5 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11269.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 6 Live DE"  group-title="Germany",Sky Select 6 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11270.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 8 Live DE"  group-title="Germany",Sky Select 8 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11272.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 7 Live DE"  group-title="Germany",Sky Select 7 Live DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/11271.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network  DE"  group-title="Germany",Cartoon Network  DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15565.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior HD DE"  group-title="Germany",Disney Junior HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15566.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="E! Entertainm HD DE"  group-title="Germany",E! Entertainm HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15567.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD DE"  group-title="Germany",Eurosport 2 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15568.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTL Crime HD DE"  group-title="Germany",RTL Crime HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15570.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Arts HD DE"  group-title="Germany",Sky Arts HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15573.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Cinema +1 HD DE"  group-title="Germany",Sky Cinema +1 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15574.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Cinema +24 HD DE"  group-title="Germany",Sky Cinema +24 HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15575.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Cinema Family HD DE"  group-title="Germany",Sky Cinema Family HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15576.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT Comedy HD DE"  group-title="Germany",TNT Comedy HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15577.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sky Sport Austria HD DE"  group-title="Germany",Sky Sport Austria HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15578.ts
+#EXTINF:0, tvg-id="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeinshd.png" tvg-name="ORF eins HD DE"  group-title="Germany",ORF eins HD DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/1643.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="JukeBox DE"  group-title="Germany",JukeBox DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/15579.ts
+#EXTINF:0, tvg-id="Sky Select DE" tvg-logo="http://secure.clientportal.link/picons/skyselect.png" tvg-name="Sky Select 1 VIP DE"  group-title="VIP DE",Sky Select 1 VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7243.ts
+#EXTINF:0, tvg-id="Sky Sport News DE" tvg-logo="http://secure.clientportal.link/picons/skysportnewshd.png" tvg-name="Sky Sport News HD VIP DE"  group-title="VIP DE",Sky Sport News HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7337.ts
+#EXTINF:0, tvg-id="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" tvg-name="Sky Sport 1 HD VIP DE"  group-title="VIP DE",Sky Sport 1 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7326.ts
+#EXTINF:0, tvg-id="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" tvg-name="Sky Sport 2 HD VIP DE"  group-title="VIP DE",Sky Sport 2 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7327.ts
+#EXTINF:0, tvg-id="Sky Sport 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysport3hd.png" tvg-name="Sky Sport 3 HD VIP DE"  group-title="VIP DE",Sky Sport 3 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7328.ts
+#EXTINF:0, tvg-id="Sky Sport 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysport4hd.png" tvg-name="Sky Sport 4 HD VIP DE"  group-title="VIP DE",Sky Sport 4 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7329.ts
+#EXTINF:0, tvg-id="Sky Sport 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysport5hd.png" tvg-name="Sky Sport 5 HD VIP DE"  group-title="VIP DE",Sky Sport 5 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7330.ts
+#EXTINF:0, tvg-id="Sky Sport 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysport6hd.png" tvg-name="Sky Sport 6 HD VIP DE"  group-title="VIP DE",Sky Sport 6 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7331.ts
+#EXTINF:0, tvg-id="Sky Sport 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysport7hd.png" tvg-name="Sky Sport 7 HD VIP DE"  group-title="VIP DE",Sky Sport 7 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7332.ts
+#EXTINF:0, tvg-id="Sky Sport 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysport8hd.png" tvg-name="Sky Sport 8 HD VIP DE"  group-title="VIP DE",Sky Sport 8 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7333.ts
+#EXTINF:0, tvg-id="Sky Sport 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysport9hd.png" tvg-name="Sky Sport 9 HD VIP DE"  group-title="VIP DE",Sky Sport 9 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7334.ts
+#EXTINF:0, tvg-id="Sky Sport 10 DE" tvg-logo="http://secure.clientportal.link/picons/skysport10hd.png" tvg-name="Sky Sport 10 HD VIP DE"  group-title="VIP DE",Sky Sport 10 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7335.ts
+#EXTINF:0, tvg-id="Sky Sport 11 DE" tvg-logo="http://secure.clientportal.link/picons/skysport11hd.png" tvg-name="Sky Sport 11 HD VIP DE"  group-title="VIP DE",Sky Sport 11 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7336.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" tvg-name="Sky Sport Bundesliga 1 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 1 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7338.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2hd.png" tvg-name="Sky Sport Bundesliga 2 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 2 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7339.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3hd.png" tvg-name="Sky Sport Bundesliga 3 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 3 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7340.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4hd.png" tvg-name="Sky Sport Bundesliga 4 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 4 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7341.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5hd.png" tvg-name="Sky Sport Bundesliga 5 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 5 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7342.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6hd.png" tvg-name="Sky Sport Bundesliga 6 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 6 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7343.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga7hd.png" tvg-name="Sky Sport Bundesliga 7 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 7 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7344.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8hd.png" tvg-name="Sky Sport Bundesliga 8 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 8 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7345.ts
+#EXTINF:0, tvg-id="Sky Sport Bundesliga 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9hd.png" tvg-name="Sky Sport Bundesliga 9 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 9 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7346.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10hd.png" tvg-name="Sky Sport Bundesliga 10 HD VIP DE"  group-title="VIP DE",Sky Sport Bundesliga 10 HD VIP DE
+http://clientportal.link:8080/live/Jesus001/Jasus001/7347.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1179933.jpg" tvg-name="10 Cloverfield Lane [DE] [2016]"  group-title="VOD: German",10 Cloverfield Lane [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12621.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4172430.jpg" tvg-name="13 Hours [DE] [2016]"  group-title="VOD: German",13 Hours [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12622.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3213684.jpg" tvg-name="1944 [DE] [2015]"  group-title="VOD: German",1944 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8353.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2294449.jpg" tvg-name="22 Jump Street [DE] [2014]"  group-title="VOD: German",22 Jump Street [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8475.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4337690.jpg" tvg-name="90 Minutes in Heaven [DE] [2015]"  group-title="VOD: German",90 Minutes in Heaven [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10740.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2980210.jpg" tvg-name="A Hologram for the King [DE] [2016]"  group-title="VOD: German",A Hologram for the King [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12623.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2901516.jpg" tvg-name="A Horse for Summer [DE] [2015]"  group-title="VOD: German",A Horse for Summer [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8376.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3577624.jpg" tvg-name="A Perfect Day [DE] [2015]"  group-title="VOD: German",A Perfect Day [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10741.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2567026.jpg" tvg-name="Alice Through the Looking Glass [DE] [2016]"  group-title="VOD: German",Alice Through the Looking Glass [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12624.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2179136.jpg" tvg-name="American Sniper [DE] [2014]"  group-title="VOD: German",American Sniper [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8476.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2870648.jpg" tvg-name="Amy [DE] [2015]"  group-title="VOD: German",Amy [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8348.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3353138.jpg" tvg-name="Animus - The Tell-Tale Heart [DE] [2015]"  group-title="VOD: German",Animus - The Tell-Tale Heart [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10742.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4820224.jpg" tvg-name="Anne of Green Gables [DE] [2016]"  group-title="VOD: German",Anne of Green Gables [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12691.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0478970.jpg" tvg-name="Ant-Man [DE] [2015]"  group-title="VOD: German",Ant-Man [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8349.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3013160.jpg" tvg-name="Arrowhead [DE] [2016]"  group-title="VOD: German",Arrowhead [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12625.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2395427.jpg" tvg-name="Avengers Age of Ultron [DE] [2015]"  group-title="VOD: German",Avengers Age of Ultron [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8350.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5042436.jpg" tvg-name="Barbie Spy Squad [DE] [2016]"  group-title="VOD: German",Barbie Spy Squad [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12626.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3139086.jpg" tvg-name="Batman Assault on Arkham [DE] [2014]"  group-title="VOD: German",Batman Assault on Arkham [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8477.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5042436.jpg" tvg-name="Batman Bad Blood [DE] [2016]"  group-title="VOD: German",Batman Bad Blood [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12627.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2245084.jpg" tvg-name="Baymax - Riesiges Robowabohu [DE] [2014]"  group-title="VOD: German",Baymax - Riesiges Robowabohu [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8478.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3212568.jpg" tvg-name="Beltracchi - Die Kunst der Fälschung [DE] [2014]"  group-title="VOD: German",Beltracchi - Die Kunst der Fälschung [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8479.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2433040.jpg" tvg-name="Beyond the Mask [DE] [2015]"  group-title="VOD: German",Beyond the Mask [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10743.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4084744.jpg" tvg-name="Bitva za Sevastopol [DE] [2015]"  group-title="VOD: German",Bitva za Sevastopol [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10744.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3950488.jpg" tvg-name="Black Beauty [DE] [2015]"  group-title="VOD: German",Black Beauty [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10745.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1355683.jpg" tvg-name="Black Mass [DE] [2015]"  group-title="VOD: German",Black Mass [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8351.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3748440.jpg" tvg-name="Blue Mountain State The Rise of Thadland [DE] [2016]"  group-title="VOD: German",Blue Mountain State The Rise of Thadland [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12628.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3263096.jpg" tvg-name="Boost [DE] [2016]"  group-title="VOD: German",Boost [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12629.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1065073.jpg" tvg-name="Boyhood [DE] [2014]"  group-title="VOD: German",Boyhood [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8480.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3682448.jpg" tvg-name="Bridge of Spies [DE] [2015]"  group-title="VOD: German",Bridge of Spies [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8352.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2503944.jpg" tvg-name="Burnt [DE] [2015]"  group-title="VOD: German",Burnt [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10746.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2234003.jpg" tvg-name="Calvary [DE] [2014]"  group-title="VOD: German",Calvary [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8481.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4126304.jpg" tvg-name="Cartel Land [DE] [2015]"  group-title="VOD: German",Cartel Land [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8354.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1489889.jpg" tvg-name="Central Intelligence [DE] [2016]"  group-title="VOD: German",Central Intelligence [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12630.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0075850.jpg" tvg-name="Cinderella [DE] [2015]"  group-title="VOD: German",Cinderella [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8355.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4044364.jpg" tvg-name="Citizenfour [DE] [2014]"  group-title="VOD: German",Citizenfour [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8482.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2097298.jpg" tvg-name="City of McFarland [DE] [2015]"  group-title="VOD: German",City of McFarland [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8356.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4229236.jpg" tvg-name="Cobain Montage of Heck [DE] [2015]"  group-title="VOD: German",Cobain Montage of Heck [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8394.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2554274.jpg" tvg-name="Crimson Peak [DE] [2015]"  group-title="VOD: German",Crimson Peak [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8357.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3796936.jpg" tvg-name="Curse of the Witching Tree [DE] [2015]"  group-title="VOD: German",Curse of the Witching Tree [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10747.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4054760.jpg" tvg-name="Das Geheimnis der Hebamme [DE] [2016]"  group-title="VOD: German",Das Geheimnis der Hebamme [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12631.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3642618.jpg" tvg-name="Das ewige Leben [DE] [2015]"  group-title="VOD: German",Das ewige Leben [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8358.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2650978.jpg" tvg-name="Das finstere Tal [DE] [2014]"  group-title="VOD: German",Das finstere Tal [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8483.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2103281.jpg" tvg-name="Dawn of the Planet of the Apes [DE] [2014]"  group-title="VOD: German",Dawn of the Planet of the Apes [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8484.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4123262.jpg" tvg-name="Days of My Youth [DE] [2014]"  group-title="VOD: German",Days of My Youth [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8485.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1431045.jpg" tvg-name="Deadpool [DE] [2016]"  group-title="VOD: German",Deadpool [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12685.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3670826.jpg" tvg-name="Dealer [DE] [2014]"  group-title="VOD: German",Dealer [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8486.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Der Athen Krimi - Trojanische Pferde [DE] [2016]"  group-title="VOD: German",Der Athen Krimi - Trojanische Pferde [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12632.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2883218.jpg" tvg-name="Der Goalie bin ig [DE] [2014]"  group-title="VOD: German",Der Goalie bin ig [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8487.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5478186.jpg" tvg-name="Der Hodscha und die Piepenkötter [DE] [2016]"  group-title="VOD: German",Der Hodscha und die Piepenkötter [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12633.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5154896.jpg" tvg-name="Der geilste Tag [DE] [2016]"  group-title="VOD: German",Der geilste Tag [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12634.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3440298.jpg" tvg-name="Descendants [DE] [2015]"  group-title="VOD: German",Descendants [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8359.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5431754.jpg" tvg-name="Die Akte General [DE] [2016]"  group-title="VOD: German",Die Akte General [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12636.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5307134.jpg" tvg-name="Die Hebamme 2 [DE] [2016]"  group-title="VOD: German",Die Hebamme 2 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12637.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3863140.jpg" tvg-name="Die Kleinen und die Bösen [DE] [2015]"  group-title="VOD: German",Die Kleinen und die Bösen [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10748.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3704416.jpg" tvg-name="Digging for Fire [DE] [2015]"  group-title="VOD: German",Digging for Fire [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10749.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1860213.jpg" tvg-name="Dirty Grandpa [DE] [2016]"  group-title="VOD: German",Dirty Grandpa [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12686.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3850214.jpg" tvg-name="Dope [DE] [2015]"  group-title="VOD: German",Dope [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10750.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1083452.jpg" tvg-name="Eddie the Eagle [DE] [2016]"  group-title="VOD: German",Eddie the Eagle [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12638.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1631867.jpg" tvg-name="Edge of Tomorrow [DE] [2014]"  group-title="VOD: German",Edge of Tomorrow [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8494.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Ehepause [DE] [2016]"  group-title="VOD: German",Ehepause [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12639.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Ein Sommer auf Lanzarote [DE] [2016]"  group-title="VOD: German",Ein Sommer auf Lanzarote [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12640.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3792960.jpg" tvg-name="El nuevo nuevo testamento [DE] [2015]"  group-title="VOD: German",El nuevo nuevo testamento [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10751.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1708135.jpg" tvg-name="Elser [DE] [2015]"  group-title="VOD: German",Elser [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8360.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4176826.jpg" tvg-name="Er ist wieder da [DE] [2015]"  group-title="VOD: German",Er ist wieder da [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10752.avi
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2719848.jpg" tvg-name="Everest [DE] [2015]"  group-title="VOD: German",Everest [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8361.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4966266.jpg" tvg-name="Familienfest [DE] [2015]"  group-title="VOD: German",Familienfest [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10753.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2935476.jpg" tvg-name="Far from the Madding Crowd [DE] [2015]"  group-title="VOD: German",Far from the Madding Crowd [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8362.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4117206.jpg" tvg-name="Fast Convoy [DE] [2016]"  group-title="VOD: German",Fast Convoy [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12641.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4012664.jpg" tvg-name="Fegefeuer [DE] [2016]"  group-title="VOD: German",Fegefeuer [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12642.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2381941.jpg" tvg-name="Focus [DE] [2015]"  group-title="VOD: German",Focus [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8363.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1817771.jpg" tvg-name="Freaks of Nature [DE] [2015]"  group-title="VOD: German",Freaks of Nature [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10754.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2713180.jpg" tvg-name="Fury [DE] [2014]"  group-title="VOD: German",Fury [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8495.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2611652.jpg" tvg-name="Fúsi [DE] [2015]"  group-title="VOD: German",Fúsi [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10755.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2097333.jpg" tvg-name="Get Squirrely [DE] [2015]"  group-title="VOD: German",Get Squirrely [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10756.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2404233.jpg" tvg-name="Gods of Egypt [DE] [2016]"  group-title="VOD: German",Gods of Egypt [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12643.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2267998.jpg" tvg-name="Gone Girl [DE] [2014]"  group-title="VOD: German",Gone Girl [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8496.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1051904.jpg" tvg-name="Goosebumps [DE] [2015]"  group-title="VOD: German",Goosebumps [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10773.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4270516.jpg" tvg-name="Grandma [DE] [2015]"  group-title="VOD: German",Grandma [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10774.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2015381.jpg" tvg-name="Guardians of the Galaxy [DE] [2014]"  group-title="VOD: German",Guardians of the Galaxy [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8497.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0475290.jpg" tvg-name="Caesar! [DE] [2016]"  group-title="VOD: German",Caesar! [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12644.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3644730.jpg" tvg-name="Heaven on Earth [DE] [2015]"  group-title="VOD: German",Heaven on Earth [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10775.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4766604.jpg" tvg-name="Highway to Hellas [DE] [2015]"  group-title="VOD: German",Highway to Hellas [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10776.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1528854.jpg" tvg-name="Home [DE] [2015]"  group-title="VOD: German",Home [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8364.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2510894.jpg" tvg-name="Hotel Transylvania 2 [DE] [2015]"  group-title="VOD: German",Hotel Transylvania 2 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8365.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1292566.jpg" tvg-name="How to Be Single [DE] [2016]"  group-title="VOD: German",How to Be Single [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12646.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1646971.jpg" tvg-name="How to Train Your Dragon 2 [DE] [2014]"  group-title="VOD: German",How to Train Your Dragon 2 [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8498.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5480340.jpg" tvg-name="Ice Age The Great Egg-Scapade [DE] [2016]"  group-title="VOD: German",Ice Age The Great Egg-Scapade [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12647.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3170900.jpg" tvg-name="Idealisten [DE] [2015]"  group-title="VOD: German",Idealisten [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8387.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3825638.jpg" tvg-name="Im Labyrinth des Schweigens [DE] [2014]"  group-title="VOD: German",Im Labyrinth des Schweigens [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8499.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2181814.jpg" tvg-name="Im Sommer wohnt er unten [DE] [2015]"  group-title="VOD: German",Im Sommer wohnt er unten [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10777.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2583270.jpg" tvg-name="so schön [DE] [2015]"  group-title="VOD: German",so schön [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12648.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1390411.jpg" tvg-name="In the Heart of the Sea [DE] [2015]"  group-title="VOD: German",In the Heart of the Sea [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10778.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1628841.jpg" tvg-name="Independence Day 2 Wiederkehr [DE] [2016]"  group-title="VOD: German",Independence Day 2 Wiederkehr [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12649.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2096673.jpg" tvg-name="Inside Out [DE] [2015]"  group-title="VOD: German",Inside Out [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8366.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2908446.jpg" tvg-name="Insurgent [DE] [2015]"  group-title="VOD: German",Insurgent [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8367.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0816692.jpg" tvg-name="Interstellar [DE] [2014]"  group-title="VOD: German",Interstellar [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8500.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3715320.jpg" tvg-name="Irrational Man [DE] [2015]"  group-title="VOD: German",Irrational Man [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10779.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2379713.jpg" tvg-name="James Bond - Spectre [DE] [2015]"  group-title="VOD: German",James Bond - Spectre [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8368.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2140037.jpg" tvg-name="Jane Got a Gun [DE] [2016]"  group-title="VOD: German",Jane Got a Gun [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12650.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4616014.jpg" tvg-name="Jarhead 3 The Siege [DE] [2016]"  group-title="VOD: German",Jarhead 3 The Siege [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12651.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0369610.jpg" tvg-name="Jurassic World [DE] [2015]"  group-title="VOD: German",Jurassic World [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8369.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5091548.jpg" tvg-name="Justice League vs. Teen Titans [DE] [2016]"  group-title="VOD: German",Justice League vs. Teen Titans [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12652.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3881700.jpg" tvg-name="Kept Woman - Die Gefangene [DE] [2015]"  group-title="VOD: German",Kept Woman - Die Gefangene [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10780.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2667380.jpg" tvg-name="Kill Command [DE] [2016]"  group-title="VOD: German",Kill Command [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12653.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3197766.jpg" tvg-name="Kill Zone 2 [DE] [2015]"  group-title="VOD: German",Kill Zone 2 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10781.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4763168.jpg" tvg-name="Kindergarten Cop 2 [DE] [2016]"  group-title="VOD: German",Kindergarten Cop 2 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12654.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2802144.jpg" tvg-name="Kingsman The Secret Service [DE] [2014]"  group-title="VOD: German",Kingsman The Secret Service [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8501.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2267968.jpg" tvg-name="Kung Fu Panda 3 [DE] [2016]"  group-title="VOD: German",Kung Fu Panda 3 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12655.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3472226.jpg" tvg-name="Kung Fury [DE] [2015]"  group-title="VOD: German",Kung Fury [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8395.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2735292.jpg" tvg-name="L.A. Slasher [DE] [2015]"  group-title="VOD: German",L.A. Slasher [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10782.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3569230.jpg" tvg-name="Legend [DE] [2015]"  group-title="VOD: German",Legend [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8370.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5548284.jpg" tvg-name="Lego Scooby-Doo! Haunted Hollywood [DE] [2016]"  group-title="VOD: German",Lego Scooby-Doo! Haunted Hollywood [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12692.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3300542.jpg" tvg-name="London Has Fallen [DE] [2016]"  group-title="VOD: German",London Has Fallen [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12656.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1638002.jpg" tvg-name="Rosie [DE] [2014]"  group-title="VOD: German",Rosie [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8502.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2210787.jpg" tvg-name="Macho Man [DE] [2015]"  group-title="VOD: German",Macho Man [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10783.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4471388.jpg" tvg-name="Mafiya Igra na vyzhivanie [DE] [2016]"  group-title="VOD: German",Mafiya Igra na vyzhivanie [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12657.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1587310.jpg" tvg-name="Maleficent [DE] [2014]"  group-title="VOD: German",Maleficent [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8503.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4943934.jpg" tvg-name="Martian Land [DE] [2015]"  group-title="VOD: German",Martian Land [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10784.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3369806.jpg" tvg-name="Max [DE] [2015]"  group-title="VOD: German",Max [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8371.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3013610.jpg" tvg-name="Mia madre [DE] [2015]"  group-title="VOD: German",Mia madre [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10785.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2649554.jpg" tvg-name="Midnight Special [DE] [2016]"  group-title="VOD: German",Midnight Special [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12658.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2381249.jpg" tvg-name="Mission Impossible - Rogue Nation [DE] [2015]"  group-title="VOD: German",Mission Impossible - Rogue Nation [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8372.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3612616.jpg" tvg-name="Mommy [DE] [2014]"  group-title="VOD: German",Mommy [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8504.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4779496.jpg" tvg-name="Boo York [DE] [2015]"  group-title="VOD: German",Boo York [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8373.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3824344.jpg" tvg-name="Monster High Freaky Fusion [DE] [2014]"  group-title="VOD: German",Monster High Freaky Fusion [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8505.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5475710.jpg" tvg-name="Monster High Great Scarrier Reef [DE] [2016]"  group-title="VOD: German",Monster High Great Scarrier Reef [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12659.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2208568.jpg" tvg-name="Montana [DE] [2014]"  group-title="VOD: German",Montana [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8506.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3760922.jpg" tvg-name="My Big Fat Greek Wedding 2 [DE] [2016]"  group-title="VOD: German",My Big Fat Greek Wedding 2 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12660.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3405714.jpg" tvg-name="Mythica A Quest for Heroes [DE] [2015]"  group-title="VOD: German",Mythica A Quest for Heroes [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8374.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3822818.jpg" tvg-name="Nackt unter Wölfen [DE] [2015]"  group-title="VOD: German",Nackt unter Wölfen [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8375.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4438848.jpg" tvg-name="Neighbors 2 Sorority Rising [DE] [2016]"  group-title="VOD: German",Neighbors 2 Sorority Rising [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12661.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2872718.jpg" tvg-name="Nightcrawler [DE] [2014]"  group-title="VOD: German",Nightcrawler [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8507.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/5057382.jpg" tvg-name="Nur eine Handvoll Leben [DE] [2016]"  group-title="VOD: German",Nur eine Handvoll Leben [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12662.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2338151.jpg" tvg-name="PK [DE] [2014]"  group-title="VOD: German",PK [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8508.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1109624.jpg" tvg-name="Paddington [DE] [2014]"  group-title="VOD: German",Paddington [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8509.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3332064.jpg" tvg-name="Pan [DE] [2015]"  group-title="VOD: German",Pan [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10786.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3774802.jpg" tvg-name="Pandemic [DE] [2016]"  group-title="VOD: German",Pandemic [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12663.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0837156.jpg" tvg-name="Pee-wee's Big Holiday [DE] [2016]"  group-title="VOD: German",Pee-wee's Big Holiday [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12664.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3169706.jpg" tvg-name="Pride [DE] [2014]"  group-title="VOD: German",Pride [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8510.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3836512.jpg" tvg-name="Ratter [DE] [2015]"  group-title="VOD: German",Ratter [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10787.avi
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3264102.jpg" tvg-name="Red Army [DE] [2014]"  group-title="VOD: German",Red Army [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8511.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4501276.jpg" tvg-name="Rettet Raffi [DE] [2015]"  group-title="VOD: German",Rettet Raffi [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10788.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1679276.jpg" tvg-name="Oskar und die Tieferschatten [DE] [2014]"  group-title="VOD: German",Oskar und die Tieferschatten [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8542.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2869728.jpg" tvg-name="Ride Along 2 [DE] [2016]"  group-title="VOD: German",Ride Along 2 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12665.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2988490.jpg" tvg-name="Road to your Heart [DE] [2014]"  group-title="VOD: German",Road to your Heart [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8512.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4062896.jpg" tvg-name="Rodeo Girl [DE] [2016]"  group-title="VOD: German",Rodeo Girl [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12666.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3029558.jpg" tvg-name="Rurôni Kenshin: Kyôto taika-hen [DE] [2014]"  group-title="VOD: German",Rurôni Kenshin: Kyôto taika-hen [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8513.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2622672.jpg" tvg-name="Scream at the Devil [DE] [2015]"  group-title="VOD: German",Scream at the Devil [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10789.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1020072.jpg" tvg-name="Selma [DE] [2014]"  group-title="VOD: German",Selma [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8514.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3397884.jpg" tvg-name="Sicario [DE] [2015]"  group-title="VOD: German",Sicario [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8377.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1850457.jpg" tvg-name="Sisters [DE] [2015]"  group-title="VOD: German",Sisters [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10790.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3205376.jpg" tvg-name="Slow West [DE] [2015]"  group-title="VOD: German",Slow West [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8378.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1798684.jpg" tvg-name="Southpaw [DE] [2015]"  group-title="VOD: German",Southpaw [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8379.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4181052.jpg" tvg-name="Special Correspondents [DE] [2016]"  group-title="VOD: German",Special Correspondents [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12667.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2379713.jpg" tvg-name="Spectre [2015]"  group-title="VOD: German",Spectre [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/9208.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3079380.jpg" tvg-name="Spy Susan Cooper Undercover [DE] [2015]"  group-title="VOD: German",Spy Susan Cooper Undercover [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8380.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3703908.jpg" tvg-name="Standoff [DE] [2016]"  group-title="VOD: German",Standoff [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12668.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2488496.jpg" tvg-name="Star Wars - Episode VII - The Force Awakens [DE] [2015]"  group-title="VOD: German",Star Wars - Episode VII - The Force Awakens [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10791.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2488496.jpg" tvg-name="Star Wars The Force Awakens [DE] [2015]"  group-title="VOD: German",Star Wars The Force Awakens [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8381.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2080374.jpg" tvg-name="Steve Jobs [DE] [2015]"  group-title="VOD: German",Steve Jobs [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10792.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3316960.jpg" tvg-name="Still Alice - Mein Leben ohne Gestern [DE] [2014]"  group-title="VOD: German",Still Alice - Mein Leben ohne Gestern [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8515.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1398426.jpg" tvg-name="Straight Outta Compton [DE] [2015]"  group-title="VOD: German",Straight Outta Compton [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8382.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3069212.jpg" tvg-name="Street Fighter - Assassin's Fist [DE] [2014]"  group-title="VOD: German",Street Fighter - Assassin's Fist [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8516.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3010660.jpg" tvg-name="Stromberg - Der Film [DE] [2014]"  group-title="VOD: German",Stromberg - Der Film [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8543.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4359416.jpg" tvg-name="Taxi [DE] [2015]"  group-title="VOD: German",Taxi [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10793.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2637276.jpg" tvg-name="Ted 2 [DE] [2015]"  group-title="VOD: German",Ted 2 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8383.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1340138.jpg" tvg-name="Terminator Genisys [DE] [2015]"  group-title="VOD: German",Terminator Genisys [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8384.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3399896.jpg" tvg-name="Terminus [DE] [2015]"  group-title="VOD: German",Terminus [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10794.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2304933.jpg" tvg-name="The 5th Wave [DE] [2016]"  group-title="VOD: German",The 5th Wave [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12669.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1655441.jpg" tvg-name="The Age of Adaline [DE] [2015]"  group-title="VOD: German",The Age of Adaline [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8385.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1985949.jpg" tvg-name="The Angry Birds Movie [DE] [2016]"  group-title="VOD: German",The Angry Birds Movie [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12670.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2702724.jpg" tvg-name="The Boss [DE] [2016]"  group-title="VOD: German",The Boss [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12688.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3882082.jpg" tvg-name="The Boy [DE] [2016]"  group-title="VOD: German",The Boy [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12671.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3065204.jpg" tvg-name="The Conjuring 2 [DE] [2016]"  group-title="VOD: German",The Conjuring 2 [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12672.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4769836.jpg" tvg-name="The Do-Over [DE] [2016]"  group-title="VOD: German",The Do-Over [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12673.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2910904.jpg" tvg-name="The Dressmaker [DE] [2015]"  group-title="VOD: German",The Dressmaker [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10795.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0455944.jpg" tvg-name="The Equalizer [DE] [2014]"  group-title="VOD: German",The Equalizer [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8517.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4061908.jpg" tvg-name="The Fall of the Krays [DE] [2016]"  group-title="VOD: German",The Fall of the Krays [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12674.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2582846.jpg" tvg-name="The Fault in Our Stars [DE] [2014]"  group-title="VOD: German",The Fault in Our Stars [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8518.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2025690.jpg" tvg-name="The Finest Hours [DE] [2016]"  group-title="VOD: German",The Finest Hours [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12675.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2452386.jpg" tvg-name="The Fundamentals of Caring [DE] [2016]"  group-title="VOD: German",The Fundamentals of Caring [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12676.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2652092.jpg" tvg-name="The Good Lie [DE] [2014]"  group-title="VOD: German",The Good Lie [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8519.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2310332.jpg" tvg-name="The Hobbit - The Battle of the Five Armies [DE] [2014]"  group-title="VOD: German",The Hobbit - The Battle of the Five Armies [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8520.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2980648.jpg" tvg-name="The Hundred-Foot Journey [DE] [2014]"  group-title="VOD: German",The Hundred-Foot Journey [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8521.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1951266.jpg" tvg-name="The Hunger Games - Mockingjay - Part 2 [DE] [2015]"  group-title="VOD: German",The Hunger Games - Mockingjay - Part 2 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10796.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1951266.jpg" tvg-name="The Hunger Games Mockingjay - Part 2 [DE] [2015]"  group-title="VOD: German",The Hunger Games Mockingjay - Part 2 [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8386.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2084970.jpg" tvg-name="The Imitation Game [DE] [2014]"  group-title="VOD: German",The Imitation Game [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8522.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1872194.jpg" tvg-name="The Judge [DE] [2014]"  group-title="VOD: German",The Judge [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8523.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2199436.jpg" tvg-name="The Judgment [DE] [2014]"  group-title="VOD: German",The Judgment [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8524.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3383420.jpg" tvg-name="The Last Saint [DE] [2014]"  group-title="VOD: German",The Last Saint [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8525.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1490017.jpg" tvg-name="The Lego Movie [DE] [2014]"  group-title="VOD: German",The Lego Movie [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8526.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2726560.jpg" tvg-name="The Longest Ride [DE] [2015]"  group-title="VOD: German",The Longest Ride [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8388.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1638355.jpg" tvg-name="The Man from U.N.C.L.E.  [2015]"  group-title="VOD: German",The Man from U.N.C.L.E.  [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8389.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3659388.jpg" tvg-name="The Martian [DE] [2015]"  group-title="VOD: German",The Martian [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8390.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1790864.jpg" tvg-name="The Maze Runner [DE] [2014]"  group-title="VOD: German",The Maze Runner [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8527.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3799694.jpg" tvg-name="The Nice Guys [DE] [2016]"  group-title="VOD: German",The Nice Guys [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12677.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3530002.jpg" tvg-name="The Night Before [DE] [2015]"  group-title="VOD: German",The Night Before [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10797.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2260254.jpg" tvg-name="The Other Side of the Mirror [DE] [2016]"  group-title="VOD: German",The Other Side of the Mirror [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12678.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2265171.jpg" tvg-name="The Raid 2 [DE] [2014]"  group-title="VOD: German",The Raid 2 [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8528.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1843866.jpg" tvg-name="The Return of the First Avenger [DE] [2014]"  group-title="VOD: German",The Return of the First Avenger [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8529.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1663202.jpg" tvg-name="The Revenant [DE] [2015]"  group-title="VOD: German",The Revenant [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10798.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3674140.jpg" tvg-name="The Salt of the Earth [DE] [2014]"  group-title="VOD: German",The Salt of the Earth [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8530.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2980516.jpg" tvg-name="The Theory of Everything [DE] [2014]"  group-title="VOD: German",The Theory of Everything [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8531.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3733774.jpg" tvg-name="The Trust [DE] [2016]"  group-title="VOD: German",The Trust [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12679.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3533916.jpg" tvg-name="The Veil [DE] [2016]"  group-title="VOD: German",The Veil [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12680.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3488710.jpg" tvg-name="The Walk [DE] [2015]"  group-title="VOD: German",The Walk [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8391.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4731008.jpg" tvg-name="The Wild Life [DE] [2016]"  group-title="VOD: German",The Wild Life [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12681.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3399078.jpg" tvg-name="Time Rush [DE] [2016]"  group-title="VOD: German",Time Rush [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12682.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Tod auf der Insel [DE] [2015]"  group-title="VOD: German",Tod auf der Insel [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8396.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3881192.jpg" tvg-name="Trigger Point [DE] [2015]"  group-title="VOD: German",Trigger Point [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10799.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1243957.jpg" tvg-name="Turist [DE] [2014]"  group-title="VOD: German",Turist [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8532.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/4080858.jpg" tvg-name="Tut Sözünü [DE] [2015]"  group-title="VOD: German",Tut Sözünü [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8392.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/not-found.jpg" tvg-name="Twilight Over Burma [DE] [2015]"  group-title="VOD: German",Twilight Over Burma [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10800.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3314218.jpg" tvg-name="UnReal [DE] [2015]"  group-title="VOD: German",UnReal [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10801.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3352390.jpg" tvg-name="Unfriend [DE] [2016]"  group-title="VOD: German",Unfriend [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12683.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/0803096.jpg" tvg-name="Warcraft [DE] [2016]"  group-title="VOD: German",Warcraft [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12689.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3416742.jpg" tvg-name="What We Do in the Shadows [DE] [2014]"  group-title="VOD: German",What We Do in the Shadows [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8533.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2582802.jpg" tvg-name="Whiplash [DE] [2014]"  group-title="VOD: German",Whiplash [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8534.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3042408.jpg" tvg-name="Who Am I - Kein System ist sicher [DE] [2014]"  group-title="VOD: German",Who Am I - Kein System ist sicher [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8535.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3011894.jpg" tvg-name="Wild Tales [DE] [2014]"  group-title="VOD: German",Wild Tales [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8536.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2758880.jpg" tvg-name="Winter Sleep (Winterschlaf) [DE]  [2014]"  group-title="VOD: German",Winter Sleep (Winterschlaf) [DE]  [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8537.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2404425.jpg" tvg-name="Woman in Gold [DE] [2015]"  group-title="VOD: German",Woman in Gold [DE] [2015]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/10802.mp4
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/3385516.jpg" tvg-name="X-Men Apocalypse [DE] [2016]"  group-title="VOD: German",X-Men Apocalypse [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12684.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1877832.jpg" tvg-name="X-Men: Days of Future Past [DE] [2014]"  group-title="VOD: German",X-Men: Days of Future Past [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8538.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/1198156.jpg" tvg-name="You're Not You [DE] [2014]"  group-title="VOD: German",You're Not You [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8539.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2723240.jpg" tvg-name="Zeit der Kannibalen [DE] [2014]"  group-title="VOD: German",Zeit der Kannibalen [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8540.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2948356.jpg" tvg-name="Zootopia [DE] [2016]"  group-title="VOD: German",Zootopia [DE] [2016]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/12690.mkv
+#EXTINF:0, tvg-id="" tvg-logo="http://clientportal.link:8080/images/2737050.jpg" tvg-name="eine Nacht [DE] [2014]"  group-title="VOD: German",eine Nacht [DE] [2014]
+http://clientportal.link:8080/movie/Jesus001/Jasus001/8541.mkv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ATV AT"  group-title="Austria",ATV AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12521.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ATV HD AT"  group-title="Austria",ATV HD AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12520.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ATV2 AT"  group-title="Austria",ATV2 AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12519.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kabel 1 AT"  group-title="Austria",Kabel 1 AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12518.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ORF III AT"  group-title="Austria",ORF III AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12517.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ORF SPORT  AT"  group-title="Austria",ORF SPORT  AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12516.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ORF1 AT"  group-title="Austria",ORF1 AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12515.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ORF2 AT"  group-title="Austria",ORF2 AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12514.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ORF2E AT"  group-title="Austria",ORF2E AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12513.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PULS 4 AT"  group-title="Austria",PULS 4 AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12511.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ProSieben AT"  group-title="Austria",ProSieben AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12512.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTL NITRO AT"  group-title="Austria",RTL NITRO AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12510.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ServusTV Oesterreich AT"  group-title="Austria",ServusTV Oesterreich AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12509.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Starparadies AT"  group-title="Austria",Starparadies AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12507.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="sixx AT"  group-title="Austria",sixx AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/12508.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NICKELODEON 1080P HD AT"  group-title="Austria",NICKELODEON 1080P HD AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/14570.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N24 1080P HD AT"  group-title="Austria",N24 1080P HD AT
+http://clientportal.link:8080/live/Jesus001/Jasus001/14572.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="########   VOD Movies   ########"  group-title="--",########   VOD Movies   ########
+http://clientportal.link:8080/live/Jesus001/Jasus001/13318.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RTK TEST"  group-title="--",RTK TEST
+http://clientportal.link:8080/live/Jesus001/Jasus001/15636.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BT Sports Europe HD"  group-title="--",BT Sports Europe HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14903.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Yle TV1 FHD FI"  group-title="--",Yle TV1 FHD FI
+http://clientportal.link:8080/live/Jesus001/Jasus001/15554.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 1 SD"  group-title="--",AR BEIN SPORTS 1 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14981.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 2 SD"  group-title="--",AR BEIN SPORTS 2 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14983.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 3 SD"  group-title="--",AR BEIN SPORTS 3 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14985.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 4 SD"  group-title="--",AR BEIN SPORTS 4 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14987.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 5 SD"  group-title="--",AR BEIN SPORTS 5 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14989.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 6 SD"  group-title="--",AR BEIN SPORTS 6 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14991.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 7 SD"  group-title="--",AR BEIN SPORTS 7 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14993.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 8 SD"  group-title="--",AR BEIN SPORTS 8 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14995.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 9 SD"  group-title="--",AR BEIN SPORTS 9 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14997.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 10 SD"  group-title="--",AR BEIN SPORTS 10 SD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14999.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 1 HD"  group-title="--",AR BEIN SPORTS 1 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14980.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 2 HD"  group-title="--",AR BEIN SPORTS 2 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14982.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 3 HD"  group-title="--",AR BEIN SPORTS 3 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14984.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 4 HD"  group-title="--",AR BEIN SPORTS 4 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14986.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 5 HD"  group-title="--",AR BEIN SPORTS 5 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14988.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 6 HD"  group-title="--",AR BEIN SPORTS 6 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14990.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 7 HD"  group-title="--",AR BEIN SPORTS 7 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14992.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 8 HD"  group-title="--",AR BEIN SPORTS 8 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14994.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 9 HD"  group-title="--",AR BEIN SPORTS 9 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14996.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 10 HD"  group-title="--",AR BEIN SPORTS 10 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/14998.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 11 HD( English )"  group-title="--",AR BEIN SPORTS 11 HD( English )
+http://clientportal.link:8080/live/Jesus001/Jasus001/15000.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AR BEIN SPORTS 12 HD( English )"  group-title="--",AR BEIN SPORTS 12 HD( English )
+http://clientportal.link:8080/live/Jesus001/Jasus001/15001.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FR BeinSport 1 HD FR"  group-title="--",FR BeinSport 1 HD FR
+http://clientportal.link:8080/live/Jesus001/Jasus001/14977.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FR BeinSport 2 HD FR"  group-title="--",FR BeinSport 2 HD FR
+http://clientportal.link:8080/live/Jesus001/Jasus001/14978.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FR BeinSport 3 HD FR"  group-title="--",FR BeinSport 3 HD FR
+http://clientportal.link:8080/live/Jesus001/Jasus001/14979.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="USA Bein Sports USA HD"  group-title="--",USA Bein Sports USA HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/15002.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 1 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 1 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6625.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 2 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 2 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6626.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 3 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 3 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6627.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 4 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 4 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6628.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 5 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 5 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/10911.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 6 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 6 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6630.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 7 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 7 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6631.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 8 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 8 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6632.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 9 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 9 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6633.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 10 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 10 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6634.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 11 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 11 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6639.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 12 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 12 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6641.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="beIN Sport 13 HD ARB"  group-title="VIP beIN SPORTS",beIN Sport 13 HD ARB
+http://clientportal.link:8080/live/Jesus001/Jasus001/6640.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="########   Adult   ########"  group-title="For Adults",########   Adult   ########
+http://clientportal.link:8080/live/Jesus001/Jasus001/13319.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Adult Channel"  group-title="For Adults",ADULT: Adult Channel
+http://clientportal.link:8080/live/Jesus001/Jasus001/14812.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Asia XXX"  group-title="For Adults",ADULT: Asia XXX
+http://clientportal.link:8080/live/Jesus001/Jasus001/9508.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Babenation UK"  group-title="For Adults",ADULT: Babenation UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/14898.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: BLUE MOVIE"  group-title="For Adults",ADULT: BLUE MOVIE
+http://clientportal.link:8080/live/Jesus001/Jasus001/13651.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Black & White"  group-title="For Adults",ADULT: Black & White
+http://clientportal.link:8080/live/Jesus001/Jasus001/15490.ts
+#EXTINF:0, tvg-id="ADULT Brazzers TV" tvg-logo="http://secure.clientportal.link/picons/brazzerstv.png" tvg-name="ADULT: Brazzers TV"  group-title="For Adults",ADULT: Brazzers TV
+http://clientportal.link:8080/live/Jesus001/Jasus001/9506.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: CZ XXX"  group-title="For Adults",ADULT: CZ XXX
+http://clientportal.link:8080/live/Jesus001/Jasus001/8221.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/centoxcentotv.png" tvg-name="ADULT: CentoxCento TV"  group-title="For Adults",ADULT: CentoxCento TV
+http://clientportal.link:8080/live/Jesus001/Jasus001/8220.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Chat Box UK"  group-title="For Adults",ADULT: Chat Box UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15054.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Climax UK"  group-title="For Adults",ADULT: Climax UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15052.ts
+#EXTINF:0, tvg-id="Dorcel" tvg-logo="http://secure.clientportal.link/picons/dorcel.png" tvg-name="ADULT: Dorcel"  group-title="For Adults",ADULT: Dorcel
+http://clientportal.link:8080/live/Jesus001/Jasus001/9504.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Exotica Tv"  group-title="For Adults",ADULT: Exotica Tv
+http://clientportal.link:8080/live/Jesus001/Jasus001/8222.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Gay Network UK"  group-title="For Adults",ADULT: Gay Network UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15042.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/getluckytv.png" tvg-name="ADULT: Get Lucky TV UK"  group-title="For Adults",ADULT: Get Lucky TV UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/14799.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 1 HD"  group-title="For Adults",ADULT: HOT CLUB 1 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5857.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 10 HD"  group-title="For Adults",ADULT: HOT CLUB 10 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5856.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 2 HD"  group-title="For Adults",ADULT: HOT CLUB 2 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5855.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 3 HD"  group-title="For Adults",ADULT: HOT CLUB 3 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5854.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 4 HD"  group-title="For Adults",ADULT: HOT CLUB 4 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5853.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 5 HD"  group-title="For Adults",ADULT: HOT CLUB 5 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5852.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 6 HD"  group-title="For Adults",ADULT: HOT CLUB 6 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5851.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 7 HD"  group-title="For Adults",ADULT: HOT CLUB 7 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5850.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 8 HD"  group-title="For Adults",ADULT: HOT CLUB 8 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5849.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: HOT CLUB 9 HD"  group-title="For Adults",ADULT: HOT CLUB 9 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/5848.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/hustlerhd.png" tvg-name="ADULT: Hustler HD"  group-title="For Adults",ADULT: Hustler HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/8225.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/luckystar.png" tvg-name="ADULT: Lucky Star UK"  group-title="For Adults",ADULT: Lucky Star UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/14773.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Meiden Van Holland Hard"  group-title="For Adults",ADULT: Meiden Van Holland Hard
+http://clientportal.link:8080/live/Jesus001/Jasus001/9507.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Mums UK"  group-title="For Adults",ADULT: Mums UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/14734.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: PassionXXX"  group-title="For Adults",ADULT: PassionXXX
+http://clientportal.link:8080/live/Jesus001/Jasus001/8218.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/penthouse1hd.png" tvg-name="ADULT: Penthouse 1 HD"  group-title="For Adults",ADULT: Penthouse 1 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/13649.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://secure.clientportal.link/picons/penthouse2hd.png" tvg-name="ADULT: Penthouse 2 HD"  group-title="For Adults",ADULT: Penthouse 2 HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/13650.ts
+#EXTINF:0, tvg-id="Pink Erotic" tvg-logo="http://secure.clientportal.link/picons/pinkerotic1.png" tvg-name="ADULT: Pink Erotik 1"  group-title="For Adults",ADULT: Pink Erotik 1
+http://clientportal.link:8080/live/Jesus001/Jasus001/5604.ts
+#EXTINF:0, tvg-id="Pink Erotic 2" tvg-logo="http://secure.clientportal.link/picons/pinkerotic2.png" tvg-name="ADULT: Pink Erotik 2"  group-title="For Adults",ADULT: Pink Erotik 2
+http://clientportal.link:8080/live/Jesus001/Jasus001/5605.ts
+#EXTINF:0, tvg-id="Pink Erotic 3" tvg-logo="http://secure.clientportal.link/picons/pinkerotic3.png" tvg-name="ADULT: Pink Erotik 3"  group-title="For Adults",ADULT: Pink Erotik 3
+http://clientportal.link:8080/live/Jesus001/Jasus001/5606.ts
+#EXTINF:0, tvg-id="Pink Erotic 4" tvg-logo="http://secure.clientportal.link/picons/pinkerotic4.png" tvg-name="ADULT: Pink Erotik 4"  group-title="For Adults",ADULT: Pink Erotik 4
+http://clientportal.link:8080/live/Jesus001/Jasus001/2051.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Pinko TV"  group-title="For Adults",ADULT: Pinko TV
+http://clientportal.link:8080/live/Jesus001/Jasus001/8224.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Play 19+"  group-title="For Adults",ADULT: Play 19+
+http://clientportal.link:8080/live/Jesus001/Jasus001/9505.ts
+#EXTINF:0, tvg-id="Playboy TV" tvg-logo="http://secure.clientportal.link/picons/playboytv.png" tvg-name="ADULT: Playboy TV"  group-title="For Adults",ADULT: Playboy TV
+http://clientportal.link:8080/live/Jesus001/Jasus001/5557.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Playboy TV UK"  group-title="For Adults",ADULT: Playboy TV UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/14795.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Reality Kings CZ"  group-title="For Adults",ADULT: Reality Kings CZ
+http://clientportal.link:8080/live/Jesus001/Jasus001/14649.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: RedLight HD"  group-title="For Adults",ADULT: RedLight HD
+http://clientportal.link:8080/live/Jesus001/Jasus001/8226.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Sexto Senso TV"  group-title="For Adults",ADULT: Sexto Senso TV
+http://clientportal.link:8080/live/Jesus001/Jasus001/4289.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Storm UK"  group-title="For Adults",ADULT: Storm UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15012.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Studio 66 2 UK"  group-title="For Adults",ADULT: Studio 66 2 UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15011.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Super One"  group-title="For Adults",ADULT: Super One
+http://clientportal.link:8080/live/Jesus001/Jasus001/10118.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: SuperOne"  group-title="For Adults",ADULT: SuperOne
+http://clientportal.link:8080/live/Jesus001/Jasus001/14585.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: T Girls Tv"  group-title="For Adults",ADULT: T Girls Tv
+http://clientportal.link:8080/live/Jesus001/Jasus001/8223.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: The X"  group-title="For Adults",ADULT: The X
+http://clientportal.link:8080/live/Jesus001/Jasus001/15487.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Ticket SE"  group-title="For Adults",ADULT: Ticket SE
+http://clientportal.link:8080/live/Jesus001/Jasus001/12076.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: VIVID"  group-title="For Adults",ADULT: VIVID
+http://clientportal.link:8080/live/Jesus001/Jasus001/13652.ts
+#EXTINF:0, tvg-id="ADULT Venus" tvg-logo="http://secure.clientportal.link/picons/venus.png" tvg-name="ADULT: Venus"  group-title="For Adults",ADULT: Venus
+http://clientportal.link:8080/live/Jesus001/Jasus001/3261.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: XXL"  group-title="For Adults",ADULT: XXL
+http://clientportal.link:8080/live/Jesus001/Jasus001/14733.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: XXX"  group-title="For Adults",ADULT: XXX
+http://clientportal.link:8080/live/Jesus001/Jasus001/9559.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: XXX Asia"  group-title="For Adults",ADULT: XXX Asia
+http://clientportal.link:8080/live/Jesus001/Jasus001/8219.ts
+#EXTINF:0, tvg-id="ADULT HOT" tvg-logo="http://secure.clientportal.link/picons/hot.png" tvg-name="ADULT: XXX Russia"  group-title="For Adults",ADULT: XXX Russia
+http://clientportal.link:8080/live/Jesus001/Jasus001/3260.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ADULT: Studio 66 3 UK"  group-title="For Adults",ADULT: Studio 66 3 UK
+http://clientportal.link:8080/live/Jesus001/Jasus001/15010.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sport 1 US (Porn at night)"  group-title="For Adults",Sport 1 US (Porn at night)
+http://clientportal.link:8080/live/Jesus001/Jasus001/7324.ts
